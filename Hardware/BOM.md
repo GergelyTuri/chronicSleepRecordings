@@ -1,6 +1,6 @@
 # Bill of Materials
 
-Comprehensive table of the hardware specifications used in the build.
+Comprehensive table of the hardware materials used in the build.
 
 | Part name | Source | cat# | function | notes |
 | -------- | -------- | -------- | -------- | -------- |
