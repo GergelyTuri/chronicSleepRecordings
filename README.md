@@ -1,4 +1,4 @@
-# This repository contains hardware and software reuriments for runnning chronic EEG/EMG recordings in mice.
+# This repository contains hardware and software requirements for running chronic EEG/EMG recordings in mice.
 
 We are developing a EEG/EMG setup to investigate the sleep profile and seizure
 incidence in mice using Pinnacle Technology's [Sirenia® software
