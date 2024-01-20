@@ -18,7 +18,11 @@ panels" width=400px height=auto>
 <br>
 **Figure 1.** _Prototype of modified cubicle used for EEG/EMG recordings._
 
-## Hardware specifications
+## Hardware
+
+For a detailed hardware setup tutorial, please click [here](./Hardware/).
+
+### Hardware specifications
 
 1. Pinnacle Data Conditioning and Acquisition System
    ([8401](https://store.pinnaclet.com/products/8401-hr-4-channel-data-conditioning-and-acquisition)
