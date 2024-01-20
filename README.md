@@ -14,7 +14,8 @@ mouse behavior in tandem with EEG/EMG recordings. EEG/EMG signals are recorded
 using Pinnacle's EEG/EMG tethered mouse system and headmounts.
 
 <img src="./images/eeg-box.jpg" alt="EEG/EMG cubicle outfitted with copper mesh and acoustic foam
-panels" max-width=300px height=auto>
+panels" width=400px height=auto>
+<br>
 **Figure 1.** _Prototype of modified cubicle used for EEG/EMG recordings._
 
 ## Hardware specifications
