@@ -26,14 +26,15 @@ panels](./images/eeg-box.jpg) **Figure 1.** _Prototype of modified cubicle used 
 2. Pinnacle EEG/EMG headmounts [Model 8201-SS](https://store.pinnaclet.com/products/8201-2-eeg-1-emg-mouse-headmount?variant=12390701727847)
 3. [Med Associates Sound Attenuating
    Cubicle](https://med-associates.com/product/sound-attenuating-cubicles-mdf/)
-4. Camera(s)
-5. [Acrylic sheets](https://canalplastics.com/)
-6. [Copper mesh](https://www.twpinc.com/100-mesh-copper-0045-wire-dia)
-7. Acoustic foam panels
-8. Dimmable LED Lights (6000K Color Temp)
-9. IR lights
-10. 24-hour programmable outlet timer
-11. Desktop/laptop
+4. T-slotted aluminum extrusion profile framing
+5. Camera(s)
+6. [Acrylic sheets](https://canalplastics.com/)
+7. [Copper mesh](https://www.twpinc.com/100-mesh-copper-0045-wire-dia)
+8. Acoustic foam panels
+9. Dimmable LED Lights (6000K Color Temp)
+10. IR lights
+11. 24-hour programmable outlet timer
+12. Desktop/laptop
 
 ### Work in Progress
 
@@ -42,8 +43,10 @@ panels](./images/eeg-box.jpg) **Figure 1.** _Prototype of modified cubicle used 
 3. Finalizing design of EEG/EMG box accessories
 3. Developing a software protocol
 
-### Future directions
+## Future directions
 
 1. Developing a custom analysis code
+
+-----
 
 Contact: [Gergely Turi](mailto:gt2253@cumc.columbia.edu)
