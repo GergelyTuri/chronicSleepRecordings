@@ -18,6 +18,13 @@ panels" width=400px height=auto>
 <br>
 **Figure 1.** _Prototype of modified cubicle used for EEG/EMG recordings._
 
+### Table of contents
+
+| **Section** | **Description** |
+|:-|:-|
+| [Hardware](#hardware) | Hardware specifications and set up tutorial |
+| [Future directions](#future-directions) | Planned updates to the project |
+
 ## Hardware
 
 For a detailed hardware setup tutorial, please click [here](./Hardware/).
