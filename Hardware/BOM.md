@@ -1,10 +1,10 @@
 # Bill of Materials
 
-Comprehensive list of hardware specifications used in the build.
+Comprehensive table of the hardware specifications used in the build.
 
 | Part name | Source | cat# | function | notes |
 | -------- | -------- | -------- | -------- | -------- |
-| Sound Attenuating Cubicle | Med Associates | MDF | Cubicle enclosure | |
+| Sound Attenuating Cubicle | Med Associates | [MDF](https://med-associates.com/product/sound-attenuating-cubicles-mdf/) | Cubicle enclosure | |
 | Data Conditioning and Acquisition System | Pinnacle Tech. | [8401](https://store.pinnaclet.com/products/8401-hr-4-channel-data-conditioning-and-acquisition) & [8206](https://store.pinnaclet.com/products/8206-data-conditioning-and-acquisition-system) | Tethered EEG/EMG recording | |
 | EEG/EMG Headmounts | Pinnacle Tech. | [8201-SS](https://store.pinnaclet.com/products/8201-2-eeg-1-emg-mouse-headmount?variant=12390701727847) | EEG/EMG signal probe | |
 | T-slot aluminum extrusion profile framing | 80/20 | N/A | Mounting overhead accessories | Installed with 1/4" screws |
@@ -17,4 +17,4 @@ Comprehensive list of hardware specifications used in the build.
 | IR light | TBD | TBD | Night-time lighting | |
 | 24-HR programmable outlet timer | Amazon | [B07HCQKRRY](https://www.amazon.com/Fosmon-Programmable-Seasonal-Portable-Aquarium/dp/B07HCQKRRY) | Program circadian lighting | |
 | 12V power sources | Amazon | N/A | powering multiple components | |
-| 24 V power source | Amazon | N/A | Powering the cubicle fan | |
+| 24V AC-to-DC power supply | Amazon | [B078RY7BPL](https://www.amazon.com/ALITOVE-Converter-Transformer-5-5x2-1mm-Computer/dp/B078RY7BPL) | Powering the cubicle fan | |
