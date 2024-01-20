@@ -1,5 +1,8 @@
 # Hardware requirements
 
+For a comprehensive list of hardware materials used in the build, please
+click [here](./BOM.md).
+
 ## Components
 
 1. _Shilded and sound proofed Med Associate Boxes._ The boxes were sourced from in house but these can be purchased directly from Med Associates (cat number). The shielding was done with copper mesh purchased from [here](https://www.twpinc.com/100-mesh-copper-0045-wire-dia). Specs: 100 MEsh Copper .0045" wire. The sound prroofing was done with egg crate sound proofing foam purchased from [amazon](https://www.amazon.com/Self-Adhesive-Quick-Recovery-Elasticity-Eco-Friendly-WVOVW/dp/B0BLTSW8KC/ref=sr_1_9?crid=2VYGY240BHKHL&keywords=egg%2525252525252Bcrate%2525252525252Bstudio%2525252525252Bfoam%2525252525252Bself-adhesive&qid=1692294347&sprefix=egg%2525252525252Bcrate%2525252525252Bstudio%2525252525252Bfoam%2525252525252Bself-adhesive%2525252525252Caps%2525252525252C71&sr=8-9&th=1). Specs: 12 Pack Self-Adhesive 1.5" X 12" X 12" Sound Proofing Egg Crate Foam, Upgraded Soundproof Wall Panels, High-Density(35kg/m3). The box came with a built in fan which requres 24V power supply. 
