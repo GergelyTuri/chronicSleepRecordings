@@ -7,7 +7,7 @@ packages](https://www.pinnaclet.com/sirenia.html).
 The mouse EEG/EMG recordings take place inside modified Med Associates
 sound-attenuating cubicles that are outfitted with
 Faraday-shielding copper mesh and sound-proof acoustic foam panels. The
-mice undergoing recordings are individually housed inside [custom-cut acrylic cages](./Hardware/Laser%20cut%20parts/).
+mice undergoing recordings are individually housed inside custom-cut acrylic cages.
 Circadian lighting is achieved using LED & IR lights that are powered via
 24-hour programmable outlet timers. Overhead cameras are used to record video of
 mouse behavior in tandem with EEG/EMG recordings. EEG/EMG signals are recorded
