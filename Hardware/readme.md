@@ -18,8 +18,8 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
 1. [Faraday-shielding and sound-proofing](#faraday-shielding-and-sound-proofing)
 2. [Aluminum framing](#aluminum-framing)
 3. [Pinnacle System & lighting](#pinnacle-system--lighting)
-4. Camera setup
-5. Recording enclosure
+4. [Camera setup](#camera-setup)
+5. [Recording enclosure](#recording-enclosure)
 
 -----
 
@@ -142,3 +142,14 @@ damaging the CCD sensor, so proceed with caution.
 5. Fix the webcam with a screw to a T-nut
 6. Feed the wire through the cable hole found on the side of the Med Associates
    box
+
+## Recording enclosure
+
+Ensure the recording enclosure is placed directly under the commutator and preamplifier.
+
+We are using recording enclosures designed by [Dr. Yueqing
+Peng](https://www.pathology.columbia.edu/profile/yueqing-peng-phd). These are
+made of clear-acrylic sheets that are adhered together using Weld-on #4 glue.
+Please contact Dr. Peng for the laser-cut files.
+
+Alternatively, you can [purchase a cage from Pinnacle Technology](https://store.pinnaclet.com/collections/cages).
