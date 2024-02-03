@@ -8,7 +8,7 @@ packages](https://www.pinnaclet.com/sirenia.html).
 
 | **Section** | **Description** |
 |:-|:-|
-| [Hardware](#hardware) | Hardware specifications and set up tutorial |
+| [Hardware](#hardware) | Hardware requirements and setup tutorial |
 | [Future directions](#future-directions) | Planned updates to the project |
 | [Contact](#contact) | Email the researchers taking lead on the project |
 
@@ -33,7 +33,7 @@ panels" width=400px height=auto>
 ### Hardware requirements
 
 1. Pinnacle Data Conditioning and Acquisition System
-2. Pinnacle EEG/EMG headmounts ([Model 8201-SS](https://store.pinnaclet.com/products/8201-2-eeg-1-emg-mouse-headmount?variant=12390701727847))
+2. Pinnacle EEG/EMG headmounts
 3. Modified Med Associates Sound Attenuating Cubicle
 4. Camera(s)
 5. Desktop/laptop
