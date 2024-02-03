@@ -106,7 +106,7 @@ We are currently using two different cameras, each of which have their own setup
 instructions below.
 
 **Materials**
-- Arducam B0205 camera
+- [Arducam B0205 camera](https://www.amazon.com/Arducam-Computer-Automatic-Switching-All-Day/dp/B0829HZ3Q7/)
 - [Arducam plate mount](./Laser%20cut%20parts/arducam_mount)
 - Logitech C270 webcam (**old model**)
 - [1/8" acrylic sheets](https://www.canalplastic.com/)
