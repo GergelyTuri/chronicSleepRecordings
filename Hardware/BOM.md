@@ -15,6 +15,7 @@ Comprehensive table of the hardware materials used in the build.
 | T-nuts | 80/20 | [various](https://8020.net/search/?q=t-nut) | Mounting overhead equipment to aluminum railing | |
 | 1/8" & 1/4" acrylic sheets | Canalplastics | TBD | recording enclosure and mounting plates | |
 | Weld-on #4 glue | Amazon | [B00TCUJ7A8](https://www.amazon.com/Weldon-Applicator-Bottle-Pint-10308/dp/B00TCUJ7A8) | Adhere acrylic sheets | Applied with needle |
+| Rat water bottle | WPI | [505432](https://www.wpiinc.com/var-505432-rat-mouse-water-bottle.html) | | |
 | Logitech C270 Webcam | Logitech | C270 | Video monitoring | **Only the older models have the removable IR filter cover** |
 | Arducam B0205 Camera | Amazon | [B0829HZ3Q7](https://www.amazon.com/Arducam-Computer-Automatic-Switching-All-Day/dp/B0829HZ3Q7/) | Video monitoring | |
 | Dimmable LED lights | Amazon | [B0CCDPNYFG](https://www.amazon.com/JUSJUBR-Lighting-Dimmable-Function-Bookshelf/dp/B0CCDPNYFG) | Artificial daylight | |
