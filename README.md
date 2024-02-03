@@ -10,6 +10,7 @@ packages](https://www.pinnaclet.com/sirenia.html).
 |:-|:-|
 | [Hardware](#hardware) | Hardware specifications and set up tutorial |
 | [Future directions](#future-directions) | Planned updates to the project |
+| [Contact](#contact) | Email the researchers taking lead on the project |
 
 ## Hardware
 
@@ -49,4 +50,6 @@ panels" width=400px height=auto>
 
 -----
 
-Contact: [Gergely Turi](mailto:gt2253@cumc.columbia.edu)
+## Contact
+[Gergely Turi](mailto:gt2253@cumc.columbia.edu)
+[Rebecca Muhle](mailto:ram76@cumc.columbia.edu)
