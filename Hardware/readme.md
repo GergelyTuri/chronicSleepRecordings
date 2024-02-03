@@ -25,6 +25,10 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
 
 ## Faraday-shielding and sound-proofing
 
+This portion of the guide explains the Faraday-shielding and sound-proofing of
+the Med Associates box, which reduces external electromagnetic fields and noise.
+This will serve as a controlled environment for the EEG/EMG recordings to take place.
+
 **Materials**
 - [Med Associates Sound Attenuating Box](https://med-associates.com/product/sound-attenuating-cubicles-mdf/)
 - [Copper mesh](https://www.twpinc.com/100-mesh-copper-0045-wire-dia)
@@ -46,6 +50,9 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
 
 ## Aluminum framing
 
+This portion of the guide explains the installation of the aluminum
+framing/railing, which is used to mount overhead equipment.
+
 **Materials**
 - [T-slot aluminum extrusion profile
   framing](https://8020.net/framing-options/t-slotted-profiles.html)
@@ -63,6 +70,9 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
    your liking, which can be used to fix overhead attachments
 
 ## Pinnacle System, lighting, & ventilation
+
+This portion of the guide explains how to setup the Pinnacle System, circadian
+lighting, and ventilation. This is the "heart" of the EEG/EMG recording setup.
 
 **Materials**
 - Pinnacle Data Conditioning and Acquisition System(s) (Models
@@ -104,6 +114,9 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
 7. Connect the 24V AC-to-DC power supply to the ventilation fan
 
 ## Camera setup
+
+This portion of the guide explains the camera modifications and setup. This will
+enable the ability to record continuous video in LED- and IR-lit conditions.
 
 We are currently using two different cameras, each of which have their own setup
 instructions below.
@@ -148,13 +161,19 @@ damaging the CCD sensor, so proceed with caution.
 
 ## Recording enclosure
 
+The recording enclosure will house the mice undergoing EEG/EMG recordings. These
+enclosures should be outfitted with food and water supply compartments.
+
 **Materials**
+- [Rat water
+  bottles](https://www.wpiinc.com/var-505432-rat-mouse-water-bottle.html)
+- [1/8" & 1/4" clear-acrylic sheets](https://www.canalplastic.com/)
 - [Weld-on #4
   glue](https://www.amazon.com/Weldon-Applicator-Bottle-Pint-10308/dp/B00TCUJ7A8)
-- [1/8" & 1/4" clear-acrylic sheets](https://www.canalplastic.com/)
-- [Rat water bottles](https://www.wpiinc.com/var-505432-rat-mouse-water-bottle.html)
+- Laser cutter ([Thunder Laser Nova
+  35](https://www.thunderlaserusa.com/machines/nova/) used)
 
-Ensure the recording enclosure is placed directly under the commutator and preamplifier.
+Ensure the recording enclosure is placed directly underneath the commutator and preamplifier.
 
 We are using recording enclosures designed by [Dr. Yueqing
 Peng](https://www.pathology.columbia.edu/profile/yueqing-peng-phd). These are
