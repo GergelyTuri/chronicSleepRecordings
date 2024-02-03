@@ -17,7 +17,7 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
 ## Setup guide
 1. [Faraday-shielding and sound-proofing](#faraday-shielding-and-sound-proofing)
 2. [Aluminum framing](#aluminum-framing)
-3. [Pinnacle System & lighting](#pinnacle-system--lighting)
+3. [Pinnacle System, lighting, & ventilation](#pinnacle-system-lighting--ventilation)
 4. [Camera setup](#camera-setup)
 5. [Recording enclosure](#recording-enclosure)
 
@@ -62,7 +62,7 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
 2. After installing the railings, slide in T-nuts to the railing's T-slots to
    your liking, which can be used to fix overhead attachments
 
-## Pinnacle System & lighting
+## Pinnacle System, lighting, & ventilation
 
 **Materials**
 - Pinnacle Data Conditioning and Acquisition System(s) (Models
@@ -78,7 +78,9 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
 - [LED
   lights](https://www.amazon.com/JUSJUBR-Lighting-Dimmable-Function-Bookshelf/dp/B0CCDPNYFG)
 - [IR light(s)](https://store.pinnaclet.com/products/9057-illuminator)
-- [24-HR programmable outlet timer](https://www.amazon.com/Fosmon-Programmable-Seasonal-Portable-Aquarium/dp/B07HCQKRRY)
+- [24-HR programmable outlet
+  timer](https://www.amazon.com/Fosmon-Programmable-Seasonal-Portable-Aquarium/dp/B07HCQKRRY)
+- [24V AC-to-DC power supply](https://www.amazon.com/ALITOVE-Converter-Transformer-5-5x2-1mm-Computer/dp/B078RY7BPL)
 - Custom laser-cut plate mounts (refer to [laser cut
   files](./Laser%20cut%20parts/))
 - [1/8" acrylic sheets](https://www.canalplastic.com/)
@@ -99,6 +101,7 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
 5. Connect the LED light power cable to a 24-HR programmable outlet timer
     * Program the timer "on" phase to be 12 hours
 6. Power on the IR light and set the switch to automatic (A)
+7. Connect the 24V AC-to-DC power supply to the ventilation fan
 
 ## Camera setup
 
