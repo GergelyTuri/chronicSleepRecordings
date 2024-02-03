@@ -22,7 +22,7 @@ mice undergoing recordings are individually housed inside custom-cut acrylic cag
 Circadian lighting is achieved using LED & IR lights that are powered via
 24-hour programmable outlet timers. EEG/EMG signals are recorded
 using Pinnacle's EEG/EMG tethered mouse system and headmounts. Overhead cameras are used to record video of
-mouse behavior in sync with EEG/EMG recordings.
+mouse behavior in-sync with EEG/EMG recordings.
 
 <img src="./images/eeg-box.jpg" alt="EEG/EMG cubicle outfitted with copper mesh and acoustic foam
 panels" width=400px height=auto>
@@ -52,13 +52,12 @@ panels" width=400px height=auto>
 ### Work in Progress
 
 1. Extending the pre-amplifier cable from the overhead commutator to the cage floor
-2. Optimizing lighting and video-recording settings
-3. Finalizing design of EEG/EMG box accessories
-3. Developing a software protocol
+2. Finalizing the design of EEG/EMG box accessories
 
 ## Future directions
 
-1. Developing a custom analysis code
+1. Developing a software analysis guide
+2. Developing a custom analysis code
 
 -----
 
