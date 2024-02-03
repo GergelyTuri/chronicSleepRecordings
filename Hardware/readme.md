@@ -2,17 +2,17 @@
 
 ## Hardware requirements
 
-For a comprehensive list of hardware materials used in the build, please
-click [here](./BOM.md).
-
-For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/).
-
 - Pinnacle Data Conditioning and Acquisition System(s)
 - Pinnacle EEG/EMG headmounts
 - Modified Med Associates Sound Attenuating Cubicle
 - Recording enclosure
 - Camera(s)
 - Desktop/laptop
+
+For a comprehensive list of hardware materials used in the build, please
+click [here](./BOM.md).
+
+For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/).
 
 ## Setup guide
 1. [Faraday-shielding and sound-proofing](#faraday-shielding-and-sound-proofing)
