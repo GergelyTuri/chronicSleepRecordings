@@ -35,6 +35,7 @@ panels" width=400px height=auto>
 - Pinnacle Data Conditioning and Acquisition System
 - Pinnacle EEG/EMG headmounts
 - Modified Med Associates Sound Attenuating Cubicle
+- Recording enclosure
 - Camera(s)
 - Desktop/laptop
 
