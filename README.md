@@ -39,11 +39,6 @@ panels" width=400px height=auto>
 - Camera(s)
 - Desktop/laptop
 
-### Work in Progress
-
-1. Extending the pre-amplifier cable from the overhead commutator to the cage floor
-2. Finalizing the design of EEG/EMG box accessories
-
 ## Future directions
 
 1. Developing a software analysis guide
