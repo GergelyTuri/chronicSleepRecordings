@@ -12,6 +12,7 @@ Comprehensive table of the hardware materials used in the build.
 | Copper mesh (0.0045" diameter) | TWP | [100X100C0045](https://www.twpinc.com/100-mesh-copper-0045-wire-dia) | Faraday-shielding | Fixed using staples |
 | Acoustic foam panels | Amazon | [B0BLTSW8KC](https://www.amazon.com/Self-Adhesive-Quick-Recovery-Elasticity-Eco-Friendly-WVOVW/dp/B0BLTSW8KC) | Sound-proofing | Fixed using staples |
 | T-slot aluminum extrusion profile framing | 80/20 | N/A | Mounting overhead accessories | Installed with 1/4" screws |
+| T-nuts | 80/20 | [various](https://8020.net/search/?q=t-nut) | Mounting overhead equipment to aluminum railing | |
 | 1/8" & 1/4" acrylic sheets | Canalplastics | TBD | recording enclosure and mounting plates | |
 | Weld-on #4 glue | Amazon | [B00TCUJ7A8](https://www.amazon.com/Weldon-Applicator-Bottle-Pint-10308/dp/B00TCUJ7A8) | Adhere acrylic sheets | Applied with needle |
 | Logitech C270 Webcam | Logitech | C270 | Video monitoring | **Only the older models have the removable IR filter cover** |
