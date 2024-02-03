@@ -51,5 +51,5 @@ panels" width=400px height=auto>
 -----
 
 ## Contact
-[Gergely Turi](mailto:gt2253@cumc.columbia.edu)
-[Rebecca Muhle](mailto:ram76@cumc.columbia.edu)
+- [Gergely Turi](mailto:gt2253@cumc.columbia.edu)
+- [Rebecca Muhle](mailto:ram76@cumc.columbia.edu)
