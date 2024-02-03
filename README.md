@@ -29,25 +29,13 @@ panels" width=400px height=auto>
 <br>
 **Figure 1.** _Prototype of modified cubicle used for EEG/EMG recordings._
 
-### Hardware specifications
+### Hardware requirements
 
 1. Pinnacle Data Conditioning and Acquisition System
-   ([8401](https://store.pinnaclet.com/products/8401-hr-4-channel-data-conditioning-and-acquisition)
-   &
-   [8206](https://store.pinnaclet.com/products/8206-data-conditioning-and-acquisition-system)
-   models)
 2. Pinnacle EEG/EMG headmounts ([Model 8201-SS](https://store.pinnaclet.com/products/8201-2-eeg-1-emg-mouse-headmount?variant=12390701727847))
-3. [Med Associates Sound Attenuating
-   Cubicle](https://med-associates.com/product/sound-attenuating-cubicles-mdf/)
-4. T-slotted aluminum extrusion profile framing
-5. Camera(s)
-6. [Acrylic sheets](https://canalplastics.com/)
-7. [Copper mesh (0.0045" diameter)](https://www.twpinc.com/100-mesh-copper-0045-wire-dia)
-8. [Acoustic foam panels](https://www.amazon.com/Self-Adhesive-Quick-Recovery-Elasticity-Eco-Friendly-WVOVW/dp/B0BLTSW8KC)
-9. [Dimmable LED Lights](https://www.amazon.com/JUSJUBR-Lighting-Dimmable-Function-Bookshelf/dp/B0CCDPNYFG)
-10. IR lights
-11. [24-hour programmable outlet timer](https://www.amazon.com/Fosmon-Programmable-Seasonal-Portable-Aquarium/dp/B07HCQKRRY)
-12. Desktop/laptop
+3. Modified Med Associates Sound Attenuating Cubicle
+4. Camera(s)
+5. Desktop/laptop
 
 ### Work in Progress
 
