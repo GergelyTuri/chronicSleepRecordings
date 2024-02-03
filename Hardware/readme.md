@@ -145,6 +145,12 @@ damaging the CCD sensor, so proceed with caution.
 
 ## Recording enclosure
 
+**Materials**
+- [Weld-on #4
+  glue](https://www.amazon.com/Weldon-Applicator-Bottle-Pint-10308/dp/B00TCUJ7A8)
+- [1/8" & 1/4" clear-acrylic sheets](https://www.canalplastic.com/)
+- [Rat water bottles](https://www.wpiinc.com/var-505432-rat-mouse-water-bottle.html)
+
 Ensure the recording enclosure is placed directly under the commutator and preamplifier.
 
 We are using recording enclosures designed by [Dr. Yueqing
