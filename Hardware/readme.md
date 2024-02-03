@@ -97,7 +97,7 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
 4. Feed the wires through the cable hole found on the side of the Med Associates
    box
 5. Connect the LED light power cable to a 24-HR programmable outlet timer
-  * Program the timer "on" phase to be 12 hours
+    * Program the timer "on" phase to be 12 hours
 6. Power on the IR light and set the switch to automatic (A)
 
 ## Camera setup
@@ -118,7 +118,7 @@ instructions below.
 
 **Steps**
 1. Laser-cut the plate mount for the Arducam using acrylic sheets and the
-   laser-cut files [found here](./Laser%20cut%20parts/arducam_mount)
+   laser-cut file [found here](./Laser%20cut%20parts/arducam_mount)
 2. Fix the camera next to the commutator to the plate mount and T-nuts using
    screws
 3. Feed the wire through the cable hole found on the side of the Med Associates
