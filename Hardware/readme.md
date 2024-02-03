@@ -27,7 +27,16 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
 
 This portion of the guide explains the Faraday-shielding and sound-proofing of
 the Med Associates box, which reduces external electromagnetic fields and noise.
-This will serve as a controlled environment for the EEG/EMG recordings to take place.
+This will serve as a controlled environment for the EEG/EMG recordings to take
+place.
+
+<img src="../images/copper-foam-application.jpg" alt="Photo collage showcasing
+the installation of copper mesh and acoustic foam
+panels" width=400px height=auto>
+<br>
+**Figure 1.** _Sequential application of copper mesh and acoustic foam panels. (A & B)
+Installation of the copper mesh. (C) Installation of the acoustic foam panels.
+(D) Outside view of the newly modified box._
 
 **Materials**
 - [Med Associates Sound Attenuating Box](https://med-associates.com/product/sound-attenuating-cubicles-mdf/)
@@ -52,6 +61,11 @@ This will serve as a controlled environment for the EEG/EMG recordings to take p
 
 This portion of the guide explains the installation of the aluminum
 framing/railing, which is used to mount overhead equipment.
+
+<img src="../images/aluminum-framing.jpg" alt="Example of aluminum framing
+inside Med Associates box" width=400px height=auto>
+<br>
+**Figure 2.** _Example of overhead equipment mounted to the aluminum framing._
 
 **Materials**
 - [T-slot aluminum extrusion profile
@@ -147,6 +161,11 @@ with the CCD sensor, and we **DO NOT** recommend attempting to remove the IR
 filter from these. Be aware that removing the IR filter from any webcam comes with the risk of
 damaging the CCD sensor, so proceed with caution.
 
+<img src="../images/logitech-ir-filter.jpg" alt="IR filter cover from old model
+of the Logitech C270 webcam" width=400px height=auto>
+<br>
+**Figure 3.** _IR filter cover from an old model of the Logitech C270 webcam._
+
 **Steps**
 1. Open the webcam enclosure to access the internal circuit board
 2. Remove the lens to expose the CCD sensor
@@ -180,4 +199,16 @@ Peng](https://www.pathology.columbia.edu/profile/yueqing-peng-phd). These are
 made of clear-acrylic sheets that are adhered together using Weld-on #4 glue.
 Please contact Dr. Peng for the laser-cut files.
 
-Alternatively, you can [purchase a cage from Pinnacle Technology](https://store.pinnaclet.com/collections/cages).
+<img src="../images/recording-enclosure.jpg" alt="Recording enclosure made of
+acrylic sheets" width=400px height=auto>
+<br>
+**Figure 4.** _Recording enclosure designed by Dr. Yueqing Peng._
+
+Alternatively, you can [purchase a cage from Pinnacle
+Technology](https://store.pinnaclet.com/collections/cages).
+
+<img src="../images/pinnacle-cage.jpg" alt="Recording enclosures made of
+acrylic" width=400px height=auto>
+<br>
+**Figure 5.** _Side-by-side comparison of the cage designed by Dr. Yueqing Peng
+(left) and Pinnacle Technology (right; Cat. [8228](https://store.pinnaclet.com/collections/cages/products/8228-mouse-cage))_
