@@ -32,11 +32,11 @@ panels" width=400px height=auto>
 
 ### Hardware requirements
 
-1. Pinnacle Data Conditioning and Acquisition System
-2. Pinnacle EEG/EMG headmounts
-3. Modified Med Associates Sound Attenuating Cubicle
-4. Camera(s)
-5. Desktop/laptop
+- Pinnacle Data Conditioning and Acquisition System
+- Pinnacle EEG/EMG headmounts
+- Modified Med Associates Sound Attenuating Cubicle
+- Camera(s)
+- Desktop/laptop
 
 ### Work in Progress
 
