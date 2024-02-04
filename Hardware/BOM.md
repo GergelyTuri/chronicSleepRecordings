@@ -19,6 +19,7 @@ Comprehensive table of the hardware materials used in the build.
 | Logitech C270 Webcam | Logitech | C270 | Video monitoring | **Only the older models have the removable IR filter cover** |
 | Arducam B0205 Camera | Amazon | [B0829HZ3Q7](https://www.amazon.com/Arducam-Computer-Automatic-Switching-All-Day/dp/B0829HZ3Q7/) | Video monitoring | |
 | Dimmable LED lights | Amazon | [B0CCDPNYFG](https://www.amazon.com/JUSJUBR-Lighting-Dimmable-Function-Bookshelf/dp/B0CCDPNYFG) | Artificial daylight | |
+| LED rotary dimmer switch | Amazon | [B07MM88SB6](https://www.amazon.com/TronicsPros-12V-24V-Dimmer-Switch-Controller/dp/B07MM88SB6) | Change LED light intensity | |
 | IR light | Pinnacle Tech. | [9057](https://store.pinnaclet.com/products/9057-illuminator) | Night-time lighting | |
 | 24-HR programmable outlet timer | Amazon | [B07HCQKRRY](https://www.amazon.com/Fosmon-Programmable-Seasonal-Portable-Aquarium/dp/B07HCQKRRY) | Program circadian lighting | |
 | 12V power sources | Amazon | N/A | powering multiple components | |
