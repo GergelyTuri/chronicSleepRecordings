@@ -222,10 +222,11 @@ Technology](https://store.pinnaclet.com/collections/cages).
     * Glue residue that is visible on the surface after drying can be removed with polish
       compound and a cloth
 5. Wait 3-5 minutes to allow the glued acrylic sheets to harden
-  * During this time, apply firm pressure to any points between the acrylic sheets that have visible air pockets
+    * During this time, apply firm pressure to any points between the acrylic sheets that have visible air pockets
 6. Remove the corner clamps and continue gluing additional acrylic sheets together
 7. After 24 hours of air drying, remove any lab tape from the assembly
-8. Ensure the recording enclosure is placed inside the Med Associates box centered directly underneath the commutator and preamplifier
+8. Ensure the recording enclosure is placed inside the Med Associates box
+   centered directly underneath the commutator and preamplifier
 
 <img src="../images/gluing-acrylic.jpg" alt="Using corner clamps to hold acrylic
 together while gluing" width=400px height=auto>
