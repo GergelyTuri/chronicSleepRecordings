@@ -34,9 +34,9 @@ place.
 the installation of copper mesh and acoustic foam
 panels" width=400px height=auto>
 <br>
-**Figure 1.** _Sequential application of copper mesh and acoustic foam panels. (A & B)
+**Figure 1.** _Sequential application of copper mesh and acoustic foam panels._ (A & B)
 Installation of the copper mesh. (C) Installation of the acoustic foam panels.
-(D) Outside view of the newly modified box._
+(D) Outside view of the newly modified box.
 
 **Materials**
 - [Med Associates Sound Attenuating Box](https://med-associates.com/product/sound-attenuating-cubicles-mdf/)
