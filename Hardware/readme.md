@@ -193,9 +193,6 @@ acrylic sheets" width=300px height=auto>
 <br>
 **Figure 4.** _Recording enclosure designed by Dr. Yueqing Peng._
 
-Alternatively, you can [purchase a cage from Pinnacle
-Technology](https://store.pinnaclet.com/collections/cages).
-
 **Materials**
 - [Rat water
   bottles](https://www.wpiinc.com/var-505432-rat-mouse-water-bottle.html)
