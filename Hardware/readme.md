@@ -102,6 +102,9 @@ lighting, and ventilation. This is the key hardware of the EEG/EMG recording set
 - [LED
   lights](https://www.amazon.com/JUSJUBR-Lighting-Dimmable-Function-Bookshelf/dp/B0CCDPNYFG)
 - [IR light(s)](https://store.pinnaclet.com/products/9057-illuminator)
+- [LED rotary dimmer
+  switch](https://www.amazon.com/TronicsPros-12V-24V-Dimmer-Switch-Controller/dp/B07MM88SB6)
+- Light meter
 - [24-HR programmable outlet
   timer](https://www.amazon.com/Fosmon-Programmable-Seasonal-Portable-Aquarium/dp/B07HCQKRRY)
 - [24V AC-to-DC power supply](https://www.amazon.com/ALITOVE-Converter-Transformer-5-5x2-1mm-Computer/dp/B078RY7BPL)
@@ -122,10 +125,14 @@ lighting, and ventilation. This is the key hardware of the EEG/EMG recording set
 3. Install the amplifier-to-commutator extension cables
 4. Feed the wires through the cable hole found on the side of the Med Associates
    box
-5. Connect the LED light power cable to a 24-HR programmable outlet timer
+5. Replace the manufacturer's LED light dimmer switch with the rotary dimmer switch
+6. Place a light meter inside the closed box to dial the rotary dimmer to the
+   desired LED light intensity
+    * After determining the desired light intensity, mark a line on the rotary with a permanent marker
+7. Connect the LED light power cable directly to a 24-HR programmable outlet timer
     * Program the timer "on" phase to be 12 hours
-6. Power on the IR light and set the switch to automatic (A)
-7. Connect the 24V AC-to-DC power supply to the ventilation fan
+8. Power on the IR light and set the switch to automatic (A)
+9. Connect the 24V AC-to-DC power supply to the ventilation fan
 
 ## Camera setup
 
