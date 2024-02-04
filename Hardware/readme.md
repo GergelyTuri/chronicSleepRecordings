@@ -55,7 +55,7 @@ Installation of the copper mesh. (C) Installation of the acoustic foam panels.
 6. Reinstall the screws for the door hinges through the copper mesh
 7. Fix the acoustic foam panels, over the copper mesh, to the inside box
    surfaces with staples
-8. Cut holes in the foam for the door hinges and ventilation fan
+8. Cut holes in the foam for the door hinges, ventilation fan, and cable hole
 
 ## Aluminum framing
 
@@ -86,7 +86,7 @@ inside Med Associates box" width=400px height=auto>
 ## Pinnacle System, lighting, & ventilation
 
 This portion of the guide explains how to setup the Pinnacle System, circadian
-lighting, and ventilation. This is the "heart" of the EEG/EMG recording setup.
+lighting, and ventilation. This is the key hardware of the EEG/EMG recording setup.
 
 **Materials**
 - Pinnacle Data Conditioning and Acquisition System(s) (Models
@@ -158,7 +158,7 @@ instructions below.
 **NOTE:** This guide is for the older models of the Logitech C270, which have a removable IR filter
 cover. The newer models sold today have the IR filter integrated
 with the CCD sensor, and we **DO NOT** recommend attempting to remove the IR
-filter from these. Be aware that removing the IR filter from any webcam comes with the risk of
+filter from these. Be aware that removing the IR filter from any webcam has the risk of
 damaging the CCD sensor, so proceed with caution.
 
 <img src="../images/logitech-ir-filter.jpg" alt="IR filter cover from old model
@@ -169,12 +169,12 @@ of the Logitech C270 webcam" width=400px height=auto>
 **Steps**
 1. Open the webcam enclosure to access the internal circuit board
 2. Remove the lens to expose the CCD sensor
-3. Using a needle, carefully pry off the IR filter cover
+3. Using a needle, carefully pry off the IR filter cover from the edge of the CCD sensor
 4. Reinstall the lens, screwing it back to the optimal focal length, and secure
-   it in place with glue
+   it in place with a drop of super glue
     * Connect the webcam to a computer and watch a live video feed while doing
-      this step
-5. Fix the webcam with a screw to a T-nut
+      this step to determine the optimal focus
+5. Fix the webcam's screw hole in its mounting clip with a screw to a T-nut
 6. Feed the wire through the cable hole found on the side of the Med Associates
    box
 
@@ -207,11 +207,10 @@ acrylic sheets" width=300px height=auto>
 1. Laser-cut 1/8" & 1/4" clear-acrylic sheets
 2. Use corner clamps and lab tape to hold acrylic sheets together firmly
 3. Using the applicator bottle with a syringe needle tip (sold with Weld-on #4),
-   hold the applicator bottle upright and gently squeeze air out, then release
-   pressure while simultaneously flipping the bottle upside down
+   hold the bottle upright and gently squeeze air out, then release this pressure while simultaneously flipping the bottle upside down
     * This will remove any air bubbles during the glue application
-4. Gently apply a small amount of glue from the bottom to top corner of two
-   acrylic sheets
+4. Place the needle at the bottom corner between the two acrylic sheets and
+   apply a small amount of glue from the bottom to top
     * The glue will absorb between the sheets via capillary action and the
       space between the acrylic sheets will appear wet
     * Be careful to allow any excess glue on the acrylic surface to air dry, as touching the glue can
