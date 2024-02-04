@@ -1,7 +1,7 @@
 # This repository contains hardware and software requirements for running continuous EEG/EMG recordings in mice.
 
 We are developing a EEG/EMG setup to investigate the sleep profile and seizure
-incidence in mice using Pinnacle Technology's [Sirenia® software
+incidence in mice using Pinnacle Technology's [Sirenia software
 packages](https://www.pinnaclet.com/sirenia.html).
 
 ### Table of contents
@@ -9,14 +9,13 @@ packages](https://www.pinnaclet.com/sirenia.html).
 | **Section** | **Description** |
 |:-|:-|
 | [Hardware](#hardware) | Hardware requirements and setup tutorial |
+| [Software](#software) | Software requirements and setup tutorial |
 | [Future directions](#future-directions) | Planned updates to the project |
 | [Contact](#contact) | Email the researchers taking lead on the project |
 
 ## Hardware
 
-For a detailed hardware setup tutorial, please click [here](./Hardware/).
-
-The mouse EEG/EMG recordings take place inside modified Med Associates
+The mouse EEG/EMG experiments take place inside modified Med Associates
 sound-attenuating cubicles that are outfitted with
 Faraday-shielding copper mesh and sound-proof acoustic foam panels. The
 mice undergoing recordings are individually housed inside custom-cut acrylic cages.
@@ -37,7 +36,21 @@ panels" width=400px height=auto>
 - Modified Med Associates Sound Attenuating Cubicle
 - Recording enclosure
 - Camera(s)
-- Desktop/laptop
+- Desktop/laptop (Windows OS)
+
+For a detailed hardware setup tutorial, please click [here](./Hardware/).
+
+## Software
+
+We are using Pinnacle Technology's [Sirenia software
+packages](https://www.pinnaclet.com/sirenia.html) for video-EEG/EMG recordings
+and analyses, which requires the Windows OS environment.
+
+### Software requirement
+
+- [Sirenia](https://www.pinnaclet.com/sirenia-download.html)
+
+For a detailed software setup tutorial, please click [here](./Software/).
 
 ## Future directions
 
