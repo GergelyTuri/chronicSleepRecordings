@@ -206,28 +206,26 @@ Technology](https://store.pinnaclet.com/collections/cages).
 - Laser cutter ([Thunder Laser Nova
   35](https://www.thunderlaserusa.com/machines/nova/) used)
 
-  **Steps**
-  1. Laser-cut 1/8" & 1/4" clear-acrylic sheets
-  2. Use corner clamps and lab tape to hold acrylic sheets together firmly
-  3. Using the applicator bottle with a syringe needle tip (sold with Weld-on
-     #4), hold the applicator bottle upright and gently squeeze air out, then
-     release pressure while simultaneously flipping the bottle upside down
-      * This will remove any air bubbles during the glue application
-  4. Gently apply a small amount of glue from the bottom to top corner of two acrylic sheets
-      * The glue will absorb between the sheets via capillary action and the
-        space between the acrylic sheets will appear wet
-      * Be careful to allow any excess glue on the acrylic surface to air dry, as touching the glue can
-        leave a visible mark
-      * Glue residue that is visible on the surface after drying can be removed with polish
-        compound and a cloth
-  4. Wait 3-5 minutes to allow the glued acrylic sheets to harden
-    * During this time, apply firm pressure to any points between the acrylic
-      sheets that have visible air pockets
-  5. Remove the corner clamps and continue gluing additional acrylic sheets
-     together
-  6. After 24 hours of air drying, remove any lab tape from the assembly
-  7. Ensure the recording enclosure is placed inside the Med Associates box
-     centered directly underneath the commutator and preamplifier
+**Steps**
+1. Laser-cut 1/8" & 1/4" clear-acrylic sheets
+2. Use corner clamps and lab tape to hold acrylic sheets together firmly
+3. Using the applicator bottle with a syringe needle tip (sold with Weld-on #4),
+   hold the applicator bottle upright and gently squeeze air out, then release
+   pressure while simultaneously flipping the bottle upside down
+    * This will remove any air bubbles during the glue application
+4. Gently apply a small amount of glue from the bottom to top corner of two
+   acrylic sheets
+    * The glue will absorb between the sheets via capillary action and the
+      space between the acrylic sheets will appear wet
+    * Be careful to allow any excess glue on the acrylic surface to air dry, as touching the glue can
+      leave a visible mark
+    * Glue residue that is visible on the surface after drying can be removed with polish
+      compound and a cloth
+5. Wait 3-5 minutes to allow the glued acrylic sheets to harden
+  * During this time, apply firm pressure to any points between the acrylic sheets that have visible air pockets
+6. Remove the corner clamps and continue gluing additional acrylic sheets together
+7. After 24 hours of air drying, remove any lab tape from the assembly
+8. Ensure the recording enclosure is placed inside the Med Associates box centered directly underneath the commutator and preamplifier
 
 <img src="../images/gluing-acrylic.jpg" alt="Using corner clamps to hold acrylic
 together while gluing" width=400px height=auto>
