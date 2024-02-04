@@ -189,7 +189,7 @@ made of clear-acrylic sheets that are adhered together using Weld-on #4 glue.
 Please contact Dr. Peng for the laser-cut files.
 
 <img src="../images/recording-enclosure.jpg" alt="Recording enclosure made of
-acrylic sheets" width=400px height=auto>
+acrylic sheets" width=300px height=auto>
 <br>
 **Figure 4.** _Recording enclosure designed by Dr. Yueqing Peng._
 
