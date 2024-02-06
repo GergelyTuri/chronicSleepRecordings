@@ -155,6 +155,7 @@ instructions below.
 - Laser cutter ([Thunder Laser Nova
   35](https://www.thunderlaserusa.com/machines/nova/) used)
 - [T-nuts](https://8020.net/search/?q=t-nut) & screws
+- Small plastic zip ties
 
 ### Arducam B0205 camera setup
 
@@ -162,8 +163,13 @@ instructions below.
 1. Laser-cut the plate mount for the Arducam using acrylic sheets and the
    laser-cut file [found here](./Laser%20cut%20parts/arducam_mount)
 2. Fix the camera to the plate mount and T-nuts using screws
-3. Feed the wire through the cable hole found on the side of the Med Associates
+3. Secure the usb cable to the plate using a zip tie
+4. Feed the wire through the cable hole found on the side of the Med Associates
    box
+
+<img src="../images/arducam.jpg" alt="Arducam B0205 secured to mounting plate" width=400px height=auto>
+<br>
+**Figure 4.** _Arducam B0205 secured to mounting plate._
 
 ### Logitech C270 webcam setup
 
@@ -176,7 +182,7 @@ damaging the CCD sensor, so proceed with caution.
 <img src="../images/logitech-ir-filter.jpg" alt="IR filter cover from old model
 of the Logitech C270 webcam" width=400px height=auto>
 <br>
-**Figure 4.** _IR filter cover from an old model of the Logitech C270 webcam._
+**Figure 5.** _IR filter cover from an old model of the Logitech C270 webcam._
 
 **Steps**
 1. Open the webcam enclosure to access the internal circuit board
@@ -203,7 +209,7 @@ Please contact Dr. Peng for the laser-cut files.
 <img src="../images/recording-enclosure.jpg" alt="Recording enclosure made of
 acrylic sheets" width=300px height=auto>
 <br>
-**Figure 5.** _Recording enclosure designed by Dr. Yueqing Peng._
+**Figure 6.** _Recording enclosure designed by Dr. Yueqing Peng._
 
 **Materials**
 - [Rat water
@@ -239,7 +245,7 @@ acrylic sheets" width=300px height=auto>
 <img src="../images/gluing-acrylic.jpg" alt="Using corner clamps to hold acrylic
 together while gluing" width=400px height=auto>
 <br>
-**Figure 6.** _Using corner clamps to hold acrylic sheets
+**Figure 7.** _Using corner clamps to hold acrylic sheets
 together during the glue application._
 
 Alternatively, you can [purchase a cage from Pinnacle
@@ -248,5 +254,5 @@ Technology](https://store.pinnaclet.com/collections/cages).
 <img src="../images/pinnacle-cage.jpg" alt="Recording enclosures made of
 acrylic" width=400px height=auto>
 <br>
-**Figure 7.** _Side-by-side comparison of the cage designed by Dr. Yueqing Peng
+**Figure 8.** _Side-by-side comparison of the cage designed by Dr. Yueqing Peng
 (left) and Pinnacle Technology (right; Cat. [8228](https://store.pinnaclet.com/collections/cages/products/8228-mouse-cage))_
