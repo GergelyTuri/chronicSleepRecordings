@@ -169,7 +169,6 @@ instructions below.
 
 <img src="../images/arducam.jpg" alt="Arducam B0205 secured to mounting plate" width=650px height=auto>
 <br>
-
 **Figure 4.** _Arducam B0205 secured to mounting plate._
 
 ### Logitech C270 webcam setup
