@@ -76,12 +76,17 @@ inside Med Associates box" width=400px height=auto>
 
 **Steps**
 1. Install two aluminum railings (23 3/8" long) that are positioned 1.5" from
-   the ceiling and 5" apart using 1/4" screws and a drill (_drawing needed_)
+   the ceiling and 5" apart using 1/4" screws and a drill
     * Using a blade, carefully remove the acoustic foam from the inside wall of
       the box with accordance to the width of the aluminum
       railing
 2. After installing the railings, slide in T-nuts to the railing's T-slots to
    your liking, which can be used to fix overhead attachments
+
+<img src="../images/modified-box-drawing.jpg" alt="Drawing of aluminum framing
+inside Med Associates box" width=400px height=auto>
+<br>
+**Figure 3.** _Drawing of aluminum framing inside Med Associates box._
 
 ## Pinnacle System, lighting, & ventilation
 
@@ -171,7 +176,7 @@ damaging the CCD sensor, so proceed with caution.
 <img src="../images/logitech-ir-filter.jpg" alt="IR filter cover from old model
 of the Logitech C270 webcam" width=400px height=auto>
 <br>
-**Figure 3.** _IR filter cover from an old model of the Logitech C270 webcam._
+**Figure 4.** _IR filter cover from an old model of the Logitech C270 webcam._
 
 **Steps**
 1. Open the webcam enclosure to access the internal circuit board
@@ -198,7 +203,7 @@ Please contact Dr. Peng for the laser-cut files.
 <img src="../images/recording-enclosure.jpg" alt="Recording enclosure made of
 acrylic sheets" width=300px height=auto>
 <br>
-**Figure 4.** _Recording enclosure designed by Dr. Yueqing Peng._
+**Figure 5.** _Recording enclosure designed by Dr. Yueqing Peng._
 
 **Materials**
 - [Rat water
