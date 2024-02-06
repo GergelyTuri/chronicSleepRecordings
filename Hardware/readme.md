@@ -164,10 +164,12 @@ instructions below.
    laser-cut file [found here](./Laser%20cut%20parts/arducam_mount)
 2. Fix the camera to the plate mount and T-nuts using screws
 3. Secure the usb cable to the plate using a zip tie
-4. Feed the wire through the cable hole found on the side of the Med Associates box
+4. Feed the wire through the cable hole found on the side of the Med Associates
+   box
 
 <img src="../images/arducam.jpg" alt="Arducam B0205 secured to mounting plate" width=650px height=auto>
 <br>
+
 **Figure 4.** _Arducam B0205 secured to mounting plate._
 
 ### Logitech C270 webcam setup
