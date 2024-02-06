@@ -69,7 +69,7 @@ inside Med Associates box" width=400px height=auto>
 
 **Materials**
 - [T-slot aluminum extrusion profile
-  framing 10 Series](https://8020.net/framing-options/t-slotted-profiles/fractional/10series100basedprofiles.html)
+  framing 1010](https://8020.net/1010.html)
 - [T-nuts](https://8020.net/search/?q=t-nut)
 - 1/4" screws
 - Drill
