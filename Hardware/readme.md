@@ -84,7 +84,7 @@ inside Med Associates box" width=400px height=auto>
    your liking, which can be used to fix overhead attachments
 
 <img src="../images/modified-box-drawing.jpg" alt="Drawing of aluminum framing
-inside Med Associates box" width=400px height=auto>
+inside Med Associates box" width=700px height=auto>
 <br>
 **Figure 3.** _Drawing of aluminum framing inside Med Associates box._
 
