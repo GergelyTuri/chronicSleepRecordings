@@ -180,7 +180,7 @@ damaging the CCD sensor, so proceed with caution.
 
 <img src="../images/logitech-c270.jpg" alt="Modified Logitech C270 webcam" width=400px height=auto>
 <br>
-<b>Figure 5.</b> <i>_Modified Logitech C270 webcam with IR filter removed._<i>
+<b>Figure 5.</b> <i>Modified Logitech C270 webcam with IR filter removed.<i>
 
 **Steps**
 1. Open the webcam enclosure to access the internal circuit board
