@@ -30,13 +30,14 @@ the Med Associates box, which reduces external electromagnetic fields and noise.
 This will serve as a controlled environment for the EEG/EMG recordings to take
 place.
 
-<img src="../images/copper-foam-application.jpg" alt="Photo collage showcasing
-the installation of copper mesh and acoustic foam
-panels" width=400px height=auto>
-<br>
-**Figure 1.** _Sequential application of copper mesh and acoustic foam panels._ (A & B)
-Installation of the copper mesh. (C) Installation of the acoustic foam panels.
-(D) Outside view of the newly modified box.
+<figure>
+  <img src="../images/copper-foam-application.jpg" alt="Photo collage showcasing
+  the installation of copper mesh and acoustic foam
+  panels" width=400px height=auto>
+  <figcaption><b>Figure 1.</b> <i>Sequential application of copper mesh and acoustic foam panels.</i> (A & B)
+  Installation of the copper mesh. (C) Installation of the acoustic foam panels.
+  (D) Outside view of the newly modified box.</figcaption>
+</figure>
 
 **Materials**
 - [Med Associates Sound Attenuating Box](https://med-associates.com/product/sound-attenuating-cubicles-mdf/)
@@ -62,10 +63,11 @@ Installation of the copper mesh. (C) Installation of the acoustic foam panels.
 This portion of the guide explains the installation of the aluminum
 framing/railing, which is used to mount overhead equipment.
 
-<img src="../images/aluminum-framing.jpg" alt="Example of aluminum framing
-inside Med Associates box" width=400px height=auto>
-<br>
-**Figure 2.** _Example of overhead equipment mounted to the aluminum framing._
+<figure>
+  <img src="../images/aluminum-framing.jpg" alt="Example of aluminum framing
+  inside Med Associates box" width=400px height=auto>
+  <figcaption><b>Figure 2.</b> <i>Example of overhead equipment mounted to the aluminum framing.</i></figcaption>
+</figure>
 
 **Materials**
 - [T-slot aluminum extrusion profile
@@ -83,10 +85,11 @@ inside Med Associates box" width=400px height=auto>
 2. After installing the railings, slide in T-nuts to the railing's T-slots to
    your liking, which can be used to fix overhead attachments
 
-<img src="../images/modified-box-drawing.jpg" alt="Drawing of aluminum framing
-inside Med Associates box" width=700px height=auto>
-<br>
-**Figure 3.** _Drawing of aluminum framing inside Med Associates box._
+<figure>
+  <img src="../images/modified-box-drawing.jpg" alt="Drawing of aluminum framing
+  inside Med Associates box" width=700px height=auto>
+  <figcaption><b>Figure 3.</b> <i>Drawing of aluminum framing inside Med Associates box.</i>
+</figure>
 
 ## Pinnacle System, lighting, & ventilation
 
@@ -167,8 +170,10 @@ instructions below.
 4. Feed the wire through the cable hole found on the side of the Med Associates
    box
 
-<img src="../images/arducam.jpg" alt="Arducam B0205 secured to mounting plate" width=650px height=auto>
-<b>Figure 4.</b> <i>Arducam B0205 secured to mounting plate.</i>
+<figure>
+  <img src="../images/arducam.jpg" alt="Arducam B0205 secured to mounting plate" width=650px height=auto>
+  <figcaption><b>Figure 4.</b> <i>Arducam B0205 secured to mounting plate.</i></figcaption>
+</figure>
 
 ### Logitech C270 webcam setup
 
@@ -178,9 +183,10 @@ with the CCD sensor, and we **DO NOT** recommend attempting to remove the IR
 filter from these. Be aware that removing the IR filter from any webcam has the risk of
 damaging the CCD sensor, so proceed with caution.
 
-<img src="../images/logitech-c270.jpg" alt="Modified Logitech C270 webcam" width=400px height=auto>
-<br>
-<b>Figure 5.</b> <i>Modified Logitech C270 webcam with IR filter removed.</i>
+<figure>
+  <img src="../images/logitech-c270.jpg" alt="Modified Logitech C270 webcam" width=400px height=auto>
+  <figcaption><b>Figure 5.</b> <i>Modified Logitech C270 webcam with IR filter removed.</i></figcaption>
+</figure>
 
 **Steps**
 1. Open the webcam enclosure to access the internal circuit board
@@ -194,10 +200,11 @@ damaging the CCD sensor, so proceed with caution.
 6. Feed the wire through the cable hole found on the side of the Med Associates
    box
 
-<img src="../images/logitech-ir-filter.jpg" alt="IR filter cover from old model
-of the Logitech C270 webcam" width=400px height=auto>
-<br>
-**Figure 6.** _IR filter cover from an old model of the Logitech C270 webcam._
+<figure>
+  <img src="../images/logitech-ir-filter.jpg" alt="IR filter cover from old model
+  of the Logitech C270 webcam" width=400px height=auto>
+  <figcaption><b>Figure 6.</b> <i>IR filter cover from an old model of the Logitech C270 webcam.</i></figcaption>
+</figure>
 
 ## Recording enclosure
 
@@ -209,10 +216,11 @@ Peng](https://www.pathology.columbia.edu/profile/yueqing-peng-phd). These are
 made of clear-acrylic sheets that are adhered together using Weld-on #4 glue.
 Please contact Dr. Peng for the laser-cut files.
 
-<img src="../images/recording-enclosure.jpg" alt="Recording enclosure made of
-acrylic sheets" width=300px height=auto>
-<br>
-**Figure 7.** _Recording enclosure designed by Dr. Yueqing Peng._
+<figure>
+  <img src="../images/recording-enclosure.jpg" alt="Recording enclosure made of
+  acrylic sheets" width=300px height=auto>
+  <figcaption><b>Figure 7.</b> <i>Recording enclosure designed by Dr. Yueqing Peng.</i></figcaption>
+</figure>
 
 **Materials**
 - [Rat water
@@ -245,17 +253,19 @@ acrylic sheets" width=300px height=auto>
 8. Ensure the recording enclosure is placed inside the Med Associates box
    centered directly underneath the commutator and preamplifier
 
-<img src="../images/gluing-acrylic.jpg" alt="Using corner clamps to hold acrylic
-together while gluing" width=400px height=auto>
-<br>
-**Figure 8.** _Using corner clamps to hold acrylic sheets
-together during the glue application._
+<figure>
+  <img src="../images/gluing-acrylic.jpg" alt="Using corner clamps to hold acrylic
+  together while gluing" width=400px height=auto>
+  <figcaption><b>Figure 8.</b> <i>Using corner clamps to hold acrylic sheets
+  together during the glue application.</i></figcaption>
+</figure>
 
 Alternatively, you can [purchase a cage from Pinnacle
 Technology](https://store.pinnaclet.com/collections/cages).
 
-<img src="../images/pinnacle-cage.jpg" alt="Recording enclosures made of
-acrylic" width=400px height=auto>
-<br>
-**Figure 9.** _Side-by-side comparison of the cage designed by Dr. Yueqing Peng
-(left) and Pinnacle Technology (right; Cat. [8228](https://store.pinnaclet.com/collections/cages/products/8228-mouse-cage))_
+<figure>
+  <img src="../images/pinnacle-cage.jpg" alt="Recording enclosures made of
+  acrylic" width=400px height=auto>
+  <figcaption><b>Figure 9.</b> <i>Side-by-side comparison of the cage designed by Dr. Yueqing Peng
+  (left) and Pinnacle Technology (right; Cat. [8228](https://store.pinnaclet.com/collections/cages/products/8228-mouse-cage))</i></figcaption>
+</figure>
