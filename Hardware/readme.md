@@ -248,7 +248,7 @@ acrylic sheets" width=300px height=auto>
 <img src="../images/gluing-acrylic.jpg" alt="Using corner clamps to hold acrylic
 together while gluing" width=400px height=auto>
 <br>
-**Figure 87.** _Using corner clamps to hold acrylic sheets
+**Figure 8.** _Using corner clamps to hold acrylic sheets
 together during the glue application._
 
 Alternatively, you can [purchase a cage from Pinnacle
