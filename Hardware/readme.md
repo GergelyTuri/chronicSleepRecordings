@@ -38,6 +38,7 @@ place.
   Installation of the copper mesh. (C) Installation of the acoustic foam panels.
   (D) Outside view of the newly modified box.</figcaption>
 </figure>
+<br>
 
 **Materials**
 - [Med Associates Sound Attenuating Box](https://med-associates.com/product/sound-attenuating-cubicles-mdf/)
@@ -68,6 +69,7 @@ framing/railing, which is used to mount overhead equipment.
   inside Med Associates box" width=400px height=auto>
   <figcaption><b>Figure 2.</b> <i>Example of overhead equipment mounted to the aluminum framing.</i></figcaption>
 </figure>
+<br>
 
 **Materials**
 - [T-slot aluminum extrusion profile
@@ -90,6 +92,7 @@ framing/railing, which is used to mount overhead equipment.
   inside Med Associates box" width=700px height=auto>
   <figcaption><b>Figure 3.</b> <i>Drawing of aluminum framing inside Med Associates box.</i>
 </figure>
+
 
 ## Pinnacle System, lighting, & ventilation
 
@@ -187,6 +190,7 @@ damaging the CCD sensor, so proceed with caution.
   <img src="../images/logitech-c270.jpg" alt="Modified Logitech C270 webcam" width=400px height=auto>
   <figcaption><b>Figure 5.</b> <i>Modified Logitech C270 webcam with IR filter removed.</i></figcaption>
 </figure>
+<br>
 
 **Steps**
 1. Open the webcam enclosure to access the internal circuit board
@@ -221,6 +225,7 @@ Please contact Dr. Peng for the laser-cut files.
   acrylic sheets" width=300px height=auto>
   <figcaption><b>Figure 7.</b> <i>Recording enclosure designed by Dr. Yueqing Peng.</i></figcaption>
 </figure>
+<br>
 
 **Materials**
 - [Rat water
@@ -259,6 +264,7 @@ Please contact Dr. Peng for the laser-cut files.
   <figcaption><b>Figure 8.</b> <i>Using corner clamps to hold acrylic sheets
   together during the glue application.</i></figcaption>
 </figure>
+<br>
 
 Alternatively, you can [purchase a cage from Pinnacle
 Technology](https://store.pinnaclet.com/collections/cages).
@@ -267,5 +273,5 @@ Technology](https://store.pinnaclet.com/collections/cages).
   <img src="../images/pinnacle-cage.jpg" alt="Recording enclosures made of
   acrylic" width=400px height=auto>
   <figcaption><b>Figure 9.</b> <i>Side-by-side comparison of the cage designed by Dr. Yueqing Peng
-  (left) and Pinnacle Technology (right; Cat. [8228](https://store.pinnaclet.com/collections/cages/products/8228-mouse-cage))</i></figcaption>
+  (left) and Pinnacle Technology (right; Cat. <a href="https://store.pinnaclet.com/collections/cages/products/8228-mouse-cage">8228</a>)</i></figcaption>
 </figure>
