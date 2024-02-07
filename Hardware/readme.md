@@ -178,10 +178,9 @@ with the CCD sensor, and we **DO NOT** recommend attempting to remove the IR
 filter from these. Be aware that removing the IR filter from any webcam has the risk of
 damaging the CCD sensor, so proceed with caution.
 
-<img src="../images/logitech-ir-filter.jpg" alt="IR filter cover from old model
-of the Logitech C270 webcam" width=400px height=auto>
+<img src="../images/logitech-c270.jpg" alt="Modified Logitech C270 webcam" width=400px height=auto>
 <br>
-**Figure 5.** _IR filter cover from an old model of the Logitech C270 webcam._
+**Figure 5.** _Modified Logitech C270 webcam with IR filter removed._
 
 **Steps**
 1. Open the webcam enclosure to access the internal circuit board
@@ -194,6 +193,11 @@ of the Logitech C270 webcam" width=400px height=auto>
 5. Fix the webcam's screw hole in its mounting clip with a screw to a T-nut
 6. Feed the wire through the cable hole found on the side of the Med Associates
    box
+
+<img src="../images/logitech-ir-filter.jpg" alt="IR filter cover from old model
+of the Logitech C270 webcam" width=400px height=auto>
+<br>
+**Figure 6.** _IR filter cover from an old model of the Logitech C270 webcam._
 
 ## Recording enclosure
 
@@ -208,7 +212,7 @@ Please contact Dr. Peng for the laser-cut files.
 <img src="../images/recording-enclosure.jpg" alt="Recording enclosure made of
 acrylic sheets" width=300px height=auto>
 <br>
-**Figure 6.** _Recording enclosure designed by Dr. Yueqing Peng._
+**Figure 7.** _Recording enclosure designed by Dr. Yueqing Peng._
 
 **Materials**
 - [Rat water
@@ -244,7 +248,7 @@ acrylic sheets" width=300px height=auto>
 <img src="../images/gluing-acrylic.jpg" alt="Using corner clamps to hold acrylic
 together while gluing" width=400px height=auto>
 <br>
-**Figure 7.** _Using corner clamps to hold acrylic sheets
+**Figure 87.** _Using corner clamps to hold acrylic sheets
 together during the glue application._
 
 Alternatively, you can [purchase a cage from Pinnacle
@@ -253,5 +257,5 @@ Technology](https://store.pinnaclet.com/collections/cages).
 <img src="../images/pinnacle-cage.jpg" alt="Recording enclosures made of
 acrylic" width=400px height=auto>
 <br>
-**Figure 8.** _Side-by-side comparison of the cage designed by Dr. Yueqing Peng
+**Figure 9.** _Side-by-side comparison of the cage designed by Dr. Yueqing Peng
 (left) and Pinnacle Technology (right; Cat. [8228](https://store.pinnaclet.com/collections/cages/products/8228-mouse-cage))_
