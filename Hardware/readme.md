@@ -168,7 +168,7 @@ instructions below.
    box
 
 <img src="../images/arducam.jpg" alt="Arducam B0205 secured to mounting plate" width=650px height=auto>
-<strong>Figure 4.</strong> <em>Arducam B0205 secured to mounting plate.</em>
+<b>Figure 4.</b> <i>Arducam B0205 secured to mounting plate.</i>
 
 ### Logitech C270 webcam setup
 
@@ -180,7 +180,7 @@ damaging the CCD sensor, so proceed with caution.
 
 <img src="../images/logitech-c270.jpg" alt="Modified Logitech C270 webcam" width=400px height=auto>
 <br>
-**Figure 5.** _Modified Logitech C270 webcam with IR filter removed._
+<b>Figure 5.</b> <i>_Modified Logitech C270 webcam with IR filter removed._<i>
 
 **Steps**
 1. Open the webcam enclosure to access the internal circuit board
