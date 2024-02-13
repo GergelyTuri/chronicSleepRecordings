@@ -26,10 +26,9 @@ instructions below.
 4. Feed the wire through the cable hole found on the side of the Med Associates
    box
 
-<figure>
-  <img src="../images/arducam.jpg" alt="Arducam B0205 secured to mounting plate" width=650px height=auto>
-  <figcaption><b>Figure 4.</b> <i>Arducam B0205 secured to mounting plate.</i></figcaption>
-</figure>
+<img src="../../images/arducam.jpg" alt="Arducam B0205 secured to mounting plate" width=650px height=auto>
+
+**Figure 1.** _Arducam B0205 secured to mounting plate._
 
 ### Logitech C270 webcam setup
 
@@ -40,7 +39,8 @@ filter from these. Be aware that removing the IR filter from any webcam has the 
 damaging the CCD sensor, so proceed with caution.
 
 <img src="../../images/logitech-c270.jpg" alt="Modified Logitech C270 webcam" width=400px height=auto>
-**Figure 1.** _Modified Logitech C270 webcam with IR filter removed._
+
+**Figure 2.** _Modified Logitech C270 webcam with IR filter removed._
 
 **Steps**
 1. Open the webcam enclosure to access the internal circuit board
@@ -56,4 +56,5 @@ damaging the CCD sensor, so proceed with caution.
 
 <img src="../../images/logitech-ir-filter.jpg" alt="IR filter cover from old model
   of the Logitech C270 webcam" width=400px height=auto>
-**Figure 2.** _IR filter cover from an old model of the Logitech C270 webcam._
+
+**Figure 3.** _IR filter cover from an old model of the Logitech C270 webcam._
