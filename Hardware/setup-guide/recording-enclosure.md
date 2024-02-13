@@ -10,6 +10,7 @@ Please contact Dr. Peng for the laser-cut files.
 
 <img src="../../images/recording-enclosure.jpg" alt="Recording enclosure made of
   acrylic sheets" width=300px height=auto>
+
 **Figure 1.** _Recording enclosure designed by Dr. Yueqing Peng._
 
 **Materials**
@@ -45,10 +46,12 @@ Please contact Dr. Peng for the laser-cut files.
 
 <img src="../../images/gluing-acrylic.jpg" alt="Using corner clamps to hold acrylic
 together while gluing" width=400px height=auto>
+
 **Figure 2.** _Using corner clamps to hold acrylic sheets together during the glue application._
 
 Alternatively, you can [purchase a cage from Pinnacle
 Technology](https://store.pinnaclet.com/collections/cages).
 
 <img src="../../images/pinnacle-cage.jpg" alt="Recording enclosures made of acrylic" width=400px height=auto>
+
 **Figure 3.** _Side-by-side comparison of the cage designed by Dr. Yueqing Peng (left) and Pinnacle Technology (right; Cat. <a href="https://store.pinnaclet.com/collections/cages/products/8228-mouse-cage">8228</a>)._
