@@ -39,7 +39,7 @@ with the CCD sensor, and we **DO NOT** recommend attempting to remove the IR
 filter from these. Be aware that removing the IR filter from any webcam has the risk of
 damaging the CCD sensor, so proceed with caution.
 
-<img src="../images/logitech-c270.jpg" alt="Modified Logitech C270 webcam" width=400px height=auto>
+<img src="../../images/logitech-c270.jpg" alt="Modified Logitech C270 webcam" width=400px height=auto>
 **Figure 1.** _Modified Logitech C270 webcam with IR filter removed._
 
 **Steps**
@@ -54,6 +54,6 @@ damaging the CCD sensor, so proceed with caution.
 6. Feed the wire through the cable hole found on the side of the Med Associates
    box
 
-<img src="../images/logitech-ir-filter.jpg" alt="IR filter cover from old model
+<img src="../../images/logitech-ir-filter.jpg" alt="IR filter cover from old model
   of the Logitech C270 webcam" width=400px height=auto>
 **Figure 2.** _IR filter cover from an old model of the Logitech C270 webcam._
