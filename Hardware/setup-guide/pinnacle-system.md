@@ -33,7 +33,7 @@ lighting, and ventilation. This is the key hardware of the EEG/EMG recording set
 **Steps**
 1. Laser-cut plate mounts for the commutators, LED lights, and IR lights using
    acrylic sheets and the laser-cut files [found
-   here](./Laser%20cut%20parts/)
+   here](.././Laser%20cut%20parts/)
 2. Fix the commutators, LED lights, and IR lights to the plate mounts and T-nuts
    using screws
     * Ensure the commutator is mounted directly overhead the intended spot for the recording enclosure
