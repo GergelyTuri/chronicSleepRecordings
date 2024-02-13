@@ -20,7 +20,7 @@ instructions below.
 
 **Steps**
 1. Laser-cut the plate mount for the Arducam using acrylic sheets and the
-   laser-cut file [found here](./Laser%20cut%20parts/arducam_mount)
+   laser-cut file [found here](.././Laser%20cut%20parts/arducam_mount)
 2. Fix the camera to the plate mount and T-nuts using screws
 3. Secure the usb cable to the plate using a zip tie
 4. Feed the wire through the cable hole found on the side of the Med Associates
