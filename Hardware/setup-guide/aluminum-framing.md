@@ -4,6 +4,7 @@ This portion of the guide explains the installation of the aluminum
 framing/railing, which is used to mount overhead equipment.
 
 <img src="../../images/aluminum-framing.jpg" alt="Example of aluminum framing inside Med Associates box" width=400px height=auto>
+
 **Figure 1.** _Example of overhead equipment mounted to the aluminum framing._
 
 **Materials**
@@ -22,4 +23,5 @@ framing/railing, which is used to mount overhead equipment.
    your liking, which can be used to fix overhead attachments
 
 <img src="../../images/modified-box-drawing.jpg" alt="Drawing of aluminum framing inside Med Associates box" width=700px height=auto>
+
 **Figure 2.** _Drawing of aluminum framing inside Med Associates box._
