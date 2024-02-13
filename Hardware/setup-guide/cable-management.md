@@ -4,7 +4,7 @@ This portion of the guide details the cable management inside of the Med
 Associates box, which gives it a professional and aesthetically-pleasing look.
 
 We are using a wiring duct from 80/20 that's designed for 10 series aluminum
-framing, but a generic [1" cable raceway](https://www.amazon.com/dp/B0BX69L3L2) or [cable clips](https://8020.net/finishingyourframe/cablewirepowermanagement/cabletubeclip.html) can be used alternatively.
+framing, but a generic [1" cable raceway](https://www.amazon.com/dp/B0BX69L3L2) can be used alternatively.
 
 <img src="../../images/cable-management.jpg" alt="Before and after cable
 management inside modified Med Associates box" width=auto height=auto>
