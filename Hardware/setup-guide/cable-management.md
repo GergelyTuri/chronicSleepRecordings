@@ -13,11 +13,11 @@ management inside modified Med Associates box" width=auto height=auto>
 
 **Materials**
 - [10 & 15 Series Wiring Duct](https://8020.net/2899.html)
-- [T-nuts](https://8020.net/search/?q=t-nut) & screws
+- [T-nuts](https://8020.net/3313.html) & screws
 - Velcro cable ties
 
 **Steps**
-1. Slide in at least four T-nuts to the backside of the aluminum frame that is
+1. Roll in at least four T-nuts to the backside of the aluminum frame that is
    closest to the back wall
 2. Using screws, fix the wiring duct to the T-nuts
     * It is easier to install the screws by cutting the teeth of the wiring duct that neighbor each T-nut

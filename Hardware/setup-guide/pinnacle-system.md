@@ -28,7 +28,7 @@ lighting, and ventilation. This is the key hardware of the EEG/EMG recording set
 - [1/8" acrylic sheets](https://www.canalplastic.com/)
 - Laser cutter ([Thunder Laser Nova
   35](https://www.thunderlaserusa.com/machines/nova/) used)
-- [T-nuts](https://8020.net/search/?q=t-nut) & screws
+- [T-nuts](https://8020.net/3313.html) & screws
 
 **Steps**
 1. Laser-cut plate mounts for the commutators, LED lights, and IR lights using
