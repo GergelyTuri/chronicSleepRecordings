@@ -1,7 +1,13 @@
 # Required software and custom written scripts will be listed here
 
-**Software requirement**
+## Software requirement
+
 - [Sirenia](https://www.pinnaclet.com/sirenia-download.html)
+
+## Setup guide
+
+1. [Setting up an EEG/EMG recording](#setting-up-an-eegemg-recording)
+2. [Exporting an EEG/EMG recording](#exporting-an-eegemg-recording)
 
 ## Setting up an EEG/EMG recording
 
@@ -9,6 +15,10 @@ This portion of the guide explains how to begin recording a video-EEG experiment
 in Sirenia Acquisition. More than one experiment can be recorded at a time, each
 recorded in a separate instance of Sirenia Acquisition. Each experiment should
 use a different amplifier for each mouse.
+
+The EEG/EMG headmount should already be connected to the preamplifier before
+beginning this portion of the guide. For instructions on how to properly connect
+the headmount, please click [here](../Hardware/setup-guide/headmount.md).
 
 1. In the top toolbar, select 'File > New Experiment'. A new window will appear.
     1. In the 'File:' prompt, choose a folder destination and file name
