@@ -28,6 +28,4 @@ connection of the preamplifier to the headmount.
 7. Allow sufficient time to pass for the mouse to recover from the anesthesia
    before proceeding with an experiment
 
-[← Return to the hardware setup guide](../readme.md#setup-guide)
-
-[→ Proceed to the software guide](../../Software/readme.md)
+[← Return to the setup guide](../readme.md#setup-guide)
