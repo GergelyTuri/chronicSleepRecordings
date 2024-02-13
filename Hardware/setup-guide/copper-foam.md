@@ -6,7 +6,9 @@ This will serve as a controlled environment for the EEG/EMG recordings to take
 place.
 
 <img src="../../images/copper-foam-application.jpg" alt="Photo collage
-showcasing the installation of copper mesh and acoustic foam panels" width=400px height=auto>
+showcasing the installation of copper mesh and acoustic foam panels" width=400px
+height=auto>
+<br>
 **Figure 1.** _Sequential application of copper mesh and acoustic foam panels._
 (A & B) Installation of the copper mesh. (C) Installation of the acoustic foam
 panels. (D) Outside view of the newly modified box.
