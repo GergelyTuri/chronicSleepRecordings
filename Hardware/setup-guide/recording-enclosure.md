@@ -54,4 +54,8 @@ Technology](https://store.pinnaclet.com/collections/cages).
 
 <img src="../../images/pinnacle-cage.jpg" alt="Recording enclosures made of acrylic" width=400px height=auto>
 
-**Figure 3.** _Side-by-side comparison of the cage designed by Dr. Yueqing Peng (left) and Pinnacle Technology (right; Cat. <a href="https://store.pinnaclet.com/collections/cages/products/8228-mouse-cage">8228</a>)._
+**Figure 3.** _Side-by-side comparison of the cage designed by Dr. Yueqing Peng
+(left) and Pinnacle Technology (right; Cat. <a
+href="https://store.pinnaclet.com/collections/cages/products/8228-mouse-cage">8228</a>)._
+
+[← Return to setup guide](../readme.md#setup-guide)

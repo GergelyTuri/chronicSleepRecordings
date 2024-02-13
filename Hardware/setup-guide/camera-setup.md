@@ -58,3 +58,5 @@ damaging the CCD sensor, so proceed with caution.
   of the Logitech C270 webcam" width=400px height=auto>
 
 **Figure 3.** _IR filter cover from an old model of the Logitech C270 webcam._
+
+[← Return to setup guide](../readme.md#setup-guide)

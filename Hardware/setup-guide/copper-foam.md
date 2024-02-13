@@ -31,3 +31,5 @@ panels. (D) Outside view of the newly modified box.
 7. Fix the acoustic foam panels, over the copper mesh, to the inside box
    surfaces with staples
 8. Cut holes in the foam for the door hinges, ventilation fan, and cable hole
+
+[← Return to setup guide](../readme.md#setup-guide)

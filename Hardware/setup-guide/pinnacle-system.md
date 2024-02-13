@@ -48,3 +48,5 @@ lighting, and ventilation. This is the key hardware of the EEG/EMG recording set
     * Program the timer "on" phase to be 12 hours
 8. Power on the IR light and set the switch to automatic (A)
 9. Connect the 24V AC-to-DC power supply to the ventilation fan
+
+[← Return to setup guide](../readme.md#setup-guide)

@@ -25,3 +25,5 @@ framing/railing, which is used to mount overhead equipment.
 <img src="../../images/modified-box-drawing.jpg" alt="Drawing of aluminum framing inside Med Associates box" width=700px height=auto>
 
 **Figure 2.** _Drawing of aluminum framing inside Med Associates box._
+
+[← Return to setup guide](../readme.md#setup-guide)
