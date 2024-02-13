@@ -19,4 +19,5 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
 2. [Aluminum framing](./setup-guide/aluminum-framing.md)
 3. [Pinnacle System, lighting, & ventilation](./setup-guide/pinnacle-system.md)
 4. [Camera setup](./setup-guide/camera-setup.md)
-5. [Recording enclosure](./setup-guide/recording-enclosure.md)
+5. [Cable management](./setup-guide/cable-management.md)
+6. [Recording enclosure](./setup-guide/recording-enclosure.md)
