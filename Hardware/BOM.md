@@ -5,6 +5,7 @@ Comprehensive table of the hardware materials used in the build.
 | Part name | Source | cat# | function | notes |
 | -------- | -------- | -------- | -------- | -------- |
 | Data Conditioning and Acquisition System | Pinnacle Tech. | [8401](https://store.pinnaclet.com/products/8401-hr-4-channel-data-conditioning-and-acquisition) & [8206](https://store.pinnaclet.com/products/8206-data-conditioning-and-acquisition-system) | Tethered EEG/EMG recording | |
+| 2 EEG/1 EMG Mouse Headmount | Pinnacle Tech. | [8201-SS](https://store.pinnaclet.com/products/8201-2-eeg-1-emg-mouse-headmount?variant=12390701727847) | EEG/EMG electrodes that connect to the 6-pin preamplifier | |
 | 15-Pin Male VGA Monitor Cable (6 ft.) | Amazon | [B00MSE7Y3W](https://www.amazon.com/Copartner-E119932-T-20276-15-Pin-Monitor/dp/B00MSE7Y3W/) | Extension cable between 8401 amplifier and commutator |
 | 6 PIN Male to Male Cable (6 ft.) | Amazon | [B0933GL5CX](https://www.amazon.com/Shielded-Cable-Black-Mouse-Keyboard/dp/B0933GL5CX/) | Extension cable between 8206 amplifier and commutator |
 | EEG/EMG Headmounts | Pinnacle Tech. | [8201-SS](https://store.pinnaclet.com/products/8201-2-eeg-1-emg-mouse-headmount?variant=12390701727847) | EEG/EMG signal probe | |
