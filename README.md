@@ -29,7 +29,7 @@ panels](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/mas
 
 ### Hardware requirements
 
-- Pinnacle Data Conditioning and Acquisition System
+- Pinnacle 3-Channel EEG/EMG Mouse System
 - Pinnacle EEG/EMG headmounts
 - Modified Med Associates Sound Attenuating Cubicle
 - Recording enclosure
