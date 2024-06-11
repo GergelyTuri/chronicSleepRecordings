@@ -8,9 +8,7 @@ Peng](https://www.pathology.columbia.edu/profile/yueqing-peng-phd). These are
 made of clear-acrylic sheets that are adhered together using Weld-on #4 glue.
 Please contact Dr. Peng for the laser-cut files.
 
-<img src="../../images/recording-enclosure.jpg" alt="Recording enclosure made of
-  acrylic sheets" width=300px height=auto>
-
+[Recording enclosure made of acrylic sheets](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/recording-enclosure.jpg)
 **Figure 1.** _Recording enclosure designed by Dr. Yueqing Peng._
 
 **Materials**
@@ -44,16 +42,13 @@ Please contact Dr. Peng for the laser-cut files.
 8. Ensure the recording enclosure is placed inside the Med Associates box
    centered directly underneath the commutator and preamplifier
 
-<img src="../../images/gluing-acrylic.jpg" alt="Using corner clamps to hold acrylic
-together while gluing" width=400px height=auto>
-
+[Using corner clamps to hold acrylic together while gluing](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/gluing-acrylic.jpg)
 **Figure 2.** _Using corner clamps to hold acrylic sheets together during the glue application._
 
 Alternatively, you can [purchase a cage from Pinnacle
 Technology](https://store.pinnaclet.com/collections/cages).
 
-<img src="../../images/pinnacle-cage.jpg" alt="Recording enclosures made of acrylic" width=400px height=auto>
-
+[Recording enclosures made of acrylic](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/pinnacle-cage.jpg)
 **Figure 3.** _Side-by-side comparison of the cage designed by Dr. Yueqing Peng
 (left) and Pinnacle Technology (right; Cat. <a
 href="https://store.pinnaclet.com/collections/cages/products/8228-mouse-cage">8228</a>)._

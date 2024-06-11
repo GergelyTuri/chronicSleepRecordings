@@ -6,9 +6,7 @@ Associates box, which gives it a professional and aesthetically-pleasing look.
 We are using a wiring duct from 80/20 that's designed for 10 series aluminum
 framing, but a generic [1" cable raceway](https://www.amazon.com/dp/B0BX69L3L2) can be used alternatively.
 
-<img src="../../images/cable-management.jpg" alt="Before and after cable
-management inside modified Med Associates box" width=auto height=auto>
-
+[Before and after cable management inside modified Med Associates box](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/cable-management.jpg)
 **Figure 1.** _Before and after cable management inside of the modified Med Associates box._
 
 **Materials**
@@ -26,9 +24,7 @@ management inside modified Med Associates box" width=auto height=auto>
 4. Bundle and tie the exposed cables together with a velcro cable tie. Attach the
    velcro to the acoustic foam.
 
-<img src="../../images/wiring-duct.jpg" alt="Wiring duct installed inside of Med
-Associates box" width=400px height=auto>
-
+[Wiring duct installed inside of Med Associates box](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/wiring-duct.jpg)
 **Figure 2.** _Wiring duct installed inside of modified Med Associates box._
 
 [← Return to setup guide](../readme.md#setup-guide)

@@ -52,12 +52,10 @@ lighting, and ventilation. This is the key hardware of the EEG/EMG recording set
 8. Power on the IR light and set the switch to automatic (A)
 9. Connect the 24V AC-to-DC power supply to the ventilation fan
 
-<img src="../../images/led-mounting-plates.jpg" alt="LED pucks fixed to mounting plates" width=300px height=auto>
-
+[LED pucks fixed to mounting plates](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/led-mounting-plates.jpg)
 **Figure 1.** _LED pucks fixed to mounting plates._
 
-<img src="../../images/plate-mounts.jpg" alt="Example of mounting plates fixed to aluminum framing" width=300px height=auto>
-
+[Example of mounting plates fixed to aluminum framing](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/plate-mounts.jpg)
 **Figure 2.** _Mounting plates fixed to aluminum framing._
 
 [← Return to setup guide](../readme.md#setup-guide)
