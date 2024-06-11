@@ -25,7 +25,7 @@ mouse behavior in-sync with EEG/EMG recordings.
 
 ![EEG/EMG cubicle outfitted with copper mesh and acoustic foam
 panels](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/eeg-box.jpg)
-**Figure 1.** _Prototype of modified cubicle used for EEG/EMG recordings._
+**Figure 1.** _Modified cubicle used for EEG/EMG recordings._
 
 ### Hardware requirements
 
