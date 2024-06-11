@@ -49,8 +49,9 @@ lighting, and ventilation. This is the key hardware of the EEG/EMG recording set
     * After determining the desired light intensity, mark a line on the rotary with a permanent marker
 7. Connect the LED light power cable directly to a 24-HR programmable outlet timer
     * Program the timer "on" phase to be 12 hours
-8. Power on the IR light and set the switch to automatic (A)
-9. Connect the 24V AC-to-DC power supply to the ventilation fan
+8. Using a light meter, set the LED light intensity to **90 lux**
+9. Power on the IR light and set the switch to automatic (A)
+10. Connect the 24V AC-to-DC power supply to the ventilation fan
 
 ![LED pucks fixed to mounting plates](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/led-mounting-plates.jpg)
 **Figure 1.** _LED pucks fixed to mounting plates._
