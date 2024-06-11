@@ -25,5 +25,7 @@ instructions below.
 4. Feed the wire through the cable hole found on the side of the Med Associates
    box
 
-[Arducam B0205 secured to mounting plate](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/arducam.jpg)
+![Arducam B0205 secured to mounting plate](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/arducam.jpg)
 **Figure 1.** _Arducam B0205 secured to mounting plate._
+
+[← Return to setup guide](../readme.md#setup-guide)

@@ -23,7 +23,7 @@ Circadian lighting is achieved using LED & IR lights that are powered via
 using Pinnacle's EEG/EMG tethered mouse system and headmounts. Overhead cameras are used to record video of
 mouse behavior in-sync with EEG/EMG recordings.
 
-[EEG/EMG cubicle outfitted with copper mesh and acoustic foam
+![EEG/EMG cubicle outfitted with copper mesh and acoustic foam
 panels](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/eeg-box.jpg)
 **Figure 1.** _Prototype of modified cubicle used for EEG/EMG recordings._
 

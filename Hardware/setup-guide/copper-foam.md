@@ -5,7 +5,7 @@ the Med Associates box, which reduces external electromagnetic fields and noise.
 This will serve as a controlled environment for the EEG/EMG recordings to take
 place.
 
-[Photo collage showcasing the installation of copper mesh and acoustic foam panels](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/copper-foam-application.jpg)
+![Photo collage showcasing the installation of copper mesh and acoustic foam panels](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/copper-foam-application.jpg)
 **Figure 1.** _Sequential application of copper mesh and acoustic foam panels._
 (A & B) Installation of the copper mesh. (C) Installation of the acoustic foam
 panels. (D) Outside view of the newly modified box.
