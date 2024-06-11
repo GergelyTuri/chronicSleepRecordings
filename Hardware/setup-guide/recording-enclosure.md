@@ -16,7 +16,7 @@ Please contact Dr. Peng for the laser-cut files.
 **Materials**
 - [Rat water
   bottles](https://www.wpiinc.com/var-505432-rat-mouse-water-bottle.html)
-- [1/8" & 1/4" clear-acrylic sheets](https://www.canalplastic.com/)
+- [1/8" & 1/4" frosted satin ice acrylic sheets](https://www.canalplastic.com/products/0d010-df-frosted-satin-ice-acrylic-sheet)
 - [Weld-on #4
   glue](https://www.amazon.com/Weldon-Applicator-Bottle-Pint-10308/dp/B00TCUJ7A8)
 - Corner clamps & lab tape
