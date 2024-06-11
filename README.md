@@ -1,8 +1,7 @@
 # This repository contains hardware and software requirements for running continuous EEG/EMG recordings in mice.
 
 We are developing a EEG/EMG setup to investigate the sleep profile and seizure
-incidence in mice using Pinnacle Technology's [Sirenia software
-packages](https://www.pinnaclet.com/sirenia.html).
+incidence in mice using Pinnacle Technology's [3-Channel EEG/EMG Mouse System](https://store.pinnaclet.com/products/8200-k1-3-channel-eeg-emg-mouse-system).
 
 ### Table of contents
 
@@ -24,9 +23,8 @@ Circadian lighting is achieved using LED & IR lights that are powered via
 using Pinnacle's EEG/EMG tethered mouse system and headmounts. Overhead cameras are used to record video of
 mouse behavior in-sync with EEG/EMG recordings.
 
-<img src="./images/eeg-box.jpg" alt="EEG/EMG cubicle outfitted with copper mesh and acoustic foam
-panels" width=400px height=auto>
-<br>
+[EEG/EMG cubicle outfitted with copper mesh and acoustic foam
+panels](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/eeg-box.jpg)
 **Figure 1.** _Prototype of modified cubicle used for EEG/EMG recordings._
 
 ### Hardware requirements
@@ -42,13 +40,14 @@ For a detailed hardware setup tutorial, please click [here](./Hardware/).
 
 ## Software
 
-We are using Pinnacle Technology's [Sirenia software
-packages](https://www.pinnaclet.com/sirenia.html) for video-EEG/EMG recordings
-and analyses, which requires the Windows OS environment.
+We are using Pinnacle Technology's [Sirenia Acquisition Software](https://www.pinnaclet.com/sirenia.html) for video-EEG/EMG recordings, which requires the Windows OS environment.
+
+For analysis, we are using [this MATLAB script found here](https://github.com/thepenglab/edfEEG2024) to analyze the sleep states from EEG/EMG data ('.edf' format).
 
 ### Software requirement
 
 - [Sirenia](https://www.pinnaclet.com/sirenia-download.html)
+- [MATLAB script](https://github.com/thepenglab/edfEEG2024)
 
 For a detailed software setup tutorial, please click [here](./Software/).
 
