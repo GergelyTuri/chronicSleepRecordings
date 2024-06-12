@@ -85,6 +85,7 @@ required you export data in the `.edf` format:
   ![Video compression pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/video-compression.JPG)
   
   **Figure:** _A pop-up window named 'Video Compression' will appear after clicking the 'OK' option from the 'Export Video' window._
+
 9. Under 'Profile @ Level', select 'MPEG4 SP @ L4a'
 10. Under 'Encoding type', select 'Single pass'
 11. Click 'OK'
