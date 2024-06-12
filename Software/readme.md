@@ -61,7 +61,9 @@ required you export data in the `.edf` format:
 3. In the 'Filename' prompt, choose the desired folder destination
 4. Set the date/time range you would like to export in the 'Start Time' and 'End Time' prompts (format: MM/DD/YEAR HH:MM:SS.00)
 4. Click 'OK'
+
 ![Export EDF pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/export-edf.JPG)
+
 **Figure:** _A pop-up window named 'Export EDF' will appear after selecting the 'File > Export > EDF' option in the top toolbar._
 
 ### Exporting video
@@ -71,16 +73,22 @@ required you export data in the `.edf` format:
 4. Select the `.avi` file extension
 5. Select the desired camera video source
 6. Click 'OK'. A small pop-up named 'Video Compression' will appear.
+  
   ![Export Video pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/export-video.JPG)
+  
   **Figure:** _A pop-up window named 'Export Video' will appear after selecting the 'File > Export > Video' option in the top toolbar._
 7. Under 'Compressor', select 'Xvid MPEG-4 Codec'
   * If you don't see this option, [download and install Xvid](https://www.xvid.com/), then re-launch Sirenia Acquisition
 8. Click 'Configure'. A small pop-up named 'Xvid Configuration' will appear.
+  
   ![Video compression pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/video-compression.JPG)
+  
   **Figure:** _A pop-up window named 'Video Compression' will appear after clicking the 'OK' option from the 'Export Video' window._
 9. Under 'Profile @ Level', select 'MPEG4 SP @ L4a'
 10. Under 'Encoding type', select 'Single pass'
 11. Click 'OK'
+  
   ![Xvid Configuration pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/xvid-config.JPG)
+  
   **Figure:** _A pop-up window named 'Xvid Configuration' will appear after clicking the 'Configure...' option from the 'Video Compression' window._
 12. In the 'Video Compression' window, click 'OK'. The video export and compression should begin.
