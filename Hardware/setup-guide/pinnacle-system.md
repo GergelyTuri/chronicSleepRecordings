@@ -63,4 +63,7 @@ lighting, and ventilation. This is the key hardware of the EEG/EMG recording set
 2. Slide the fan cover over the ventilation fan outside of the box
 3. Connect the 24V AC-to-DC power supply to the ventilation fan
 
+![Fan cover placed over ventilation fan](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/fan-cover.jpg)
+**Figure 3.** _Assembled fan cover (left). Fan cover placed over top of ventilation fan (right)._
+
 [← Return to setup guide](../readme.md#setup-guide)
