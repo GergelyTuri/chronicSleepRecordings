@@ -77,6 +77,7 @@ required you export data in the `.edf` format:
   ![Export Video pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/export-video.JPG)
   
   **Figure:** _A pop-up window named 'Export Video' will appear after selecting the 'File > Export > Video' option in the top toolbar._
+
 7. Under 'Compressor', select 'Xvid MPEG-4 Codec'
   * If you don't see this option, [download and install Xvid](https://www.xvid.com/), then re-launch Sirenia Acquisition
 8. Click 'Configure'. A small pop-up named 'Xvid Configuration' will appear.
@@ -88,7 +89,8 @@ required you export data in the `.edf` format:
 10. Under 'Encoding type', select 'Single pass'
 11. Click 'OK'
   
-  ![Xvid Configuration pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/xvid-config.JPG)
+  ![Xvid Configuration pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/xvid-config.jpg)
   
   **Figure:** _A pop-up window named 'Xvid Configuration' will appear after clicking the 'Configure...' option from the 'Video Compression' window._
+
 12. In the 'Video Compression' window, click 'OK'. The video export and compression should begin.
