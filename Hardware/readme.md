@@ -21,4 +21,5 @@ For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/
 4. [Camera setup](./setup-guide/camera-setup.md)
 5. [Cable management](./setup-guide/cable-management.md)
 6. [Recording enclosure](./setup-guide/recording-enclosure.md)
-7. [Connecting the EEG/EMG headmount](./setup-guide/headmount.md)
+7. [Box divider]()
+8. [Connecting the EEG/EMG headmount](./setup-guide/headmount.md)
