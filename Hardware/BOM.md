@@ -4,9 +4,10 @@ Comprehensive table of the hardware materials used in the build.
 
 | Part name | Source | cat# | function | notes |
 | -------- | -------- | -------- | -------- | -------- |
-| 3-Channel EEG/EMG Mouse System | Pinnacle Tech. | [8200-K1](https://store.pinnaclet.com/collections/3-channel-tethered-mouse-systems/products/8200-k1-3-channel-eeg-emg-mouse-system) | Tethered EEG/EMG recording | |
+| 3-Channel EEG/EMG Mouse Data Conditioning and Acquisition System | Pinnacle Tech. | [8206-HR](https://store.pinnaclet.com/collections/3-channel-tethered-mouse-systems/products/8200-k1-3-channel-eeg-emg-mouse-system) | 2 EEG/ 1 EMG amplifier | |
+| 3 channel mouse preamplifier | Pinnacle Tech. | [8202](https://store.pinnaclet.com/products/8202-3-channel-mouse-preamplifier) | Connects headmount to commutator | Custom length of 11.25 inches from connector to connector |
+| 3-Channel Mouse Commutator and Swivel (6-pin) | Pinnacle Tech. | [8204-723](https://store.pinnaclet.com/products/8204-723-3-channel-mouse-commutator-and-swivel-6-pin) | Commutator ||
 | 2 EEG/1 EMG Mouse Headmount | Pinnacle Tech. | [8201-SS](https://store.pinnaclet.com/products/8201-2-eeg-1-emg-mouse-headmount?variant=12390701727847) | EEG/EMG electrodes that connect to the 6-pin preamplifier | |
-| 15-Pin Male VGA Monitor Cable (6 ft.) | Amazon | [B00MSE7Y3W](https://www.amazon.com/Copartner-E119932-T-20276-15-Pin-Monitor/dp/B00MSE7Y3W/) | Extension cable between 8401 amplifier and commutator |
 | 6 PIN Male to Male Cable (6 ft.) | Amazon | [B0933GL5CX](https://www.amazon.com/Shielded-Cable-Black-Mouse-Keyboard/dp/B0933GL5CX/) | Extension cable between 8206 amplifier and commutator |
 | EEG/EMG Headmounts | Pinnacle Tech. | [8201-SS](https://store.pinnaclet.com/products/8201-2-eeg-1-emg-mouse-headmount?variant=12390701727847) | EEG/EMG signal probe | |
 | Sound Attenuating Cubicle | Med Associates | [MDF](https://med-associates.com/product/sound-attenuating-cubicles-mdf/) | Cubicle enclosure | |
