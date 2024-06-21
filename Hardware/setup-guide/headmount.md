@@ -6,7 +6,7 @@ connection of the preamplifier to the headmount.
 
 **Materials**
 - [2 EEG/1 EMG Mouse Headmount](https://store.pinnaclet.com/products/8201-2-eeg-1-emg-mouse-headmount?variant=12390701727847)
-- 6-pin preamplifier
+- [3 channel mouse preamplifier](https://store.pinnaclet.com/products/8202-3-channel-mouse-preamplifier)
 - Isoflurane and paper towels
 - Tupperware container with lid
 - Hemostat
@@ -28,7 +28,7 @@ connection of the preamplifier to the headmount.
     ![Posterior and anterior sides of the 6-pin preamplifier male connector](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/preamplifier-male.png)
     
     **Figure 1.** _Posterior and anterior sides of the 6-pin preamplifier male connector._
-    
+
 6. Carefully place the mouse inside of the recording enclosure
 7. Allow sufficient time to pass for the mouse to recover from the anesthesia
    before proceeding with an experiment
