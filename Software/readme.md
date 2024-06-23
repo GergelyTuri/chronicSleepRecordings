@@ -43,6 +43,9 @@ the headmount, please click [here](../Hardware/setup-guide/headmount.md).
 5. In the top menu, click the record button (round red button with letter 'R') to start recording the experiment
 6. At the end of the experiment, click the red 'X' icon in the top menu to close experiment
 
+![EEG/EMG recording in Sirenia acquisition](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/acquisition.jpeg)
+**Figure 1.** _EEG/EMG recording in Sirenia acquisition._
+
 ## Exporting an EEG/EMG recording
 
 This portion of the guide explains how to export a video-EEG experiment in Sirenia Acquisition. EEG/EMG data can be exported to an `.edf` format, which can then be analyzed using the MATLAB script, Sirenia software packages, or third-party software. Video can be exported to `.avi`, which can be analyzed for XY-movement tracking using third-party software.
