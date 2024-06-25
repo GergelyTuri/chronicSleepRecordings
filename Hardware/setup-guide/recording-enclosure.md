@@ -22,7 +22,7 @@ Please contact Dr. Peng for the laser-cut files.
   35](https://www.thunderlaserusa.com/machines/nova/) used)
 
 **Steps**
-1. Laser-cut 1/8" & 1/4" clear-acrylic sheets
+1. Laser-cut frosted stain ice acrylic sheets (1/8" & 1/4" thick)
 2. Use corner clamps and lab tape to hold acrylic sheets together firmly
 3. Using the applicator bottle with a syringe needle tip (sold with Weld-on #4),
    hold the bottle upright and gently squeeze air out, then release this pressure while simultaneously flipping the bottle upside down
