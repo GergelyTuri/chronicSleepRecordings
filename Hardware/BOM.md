@@ -16,7 +16,7 @@ Comprehensive table of the hardware materials used in the build.
 | T-slot aluminum extrusion profile framing | 80/20 | [1010](https://8020.net/1010.html) | Mounting overhead accessories | Installed with 1/4" screws |
 | Roll-in T-nuts | 80/20 | [3313](https://8020.net/3313.html) | Mounting overhead equipment to aluminum railing | |
 | 10 & 15 Series Wiring Duct | 80/20 | [2899](https://8020.net/2899.html) | Cable management | Can alternatively use cable raceway |
-| 1/8" & 1/4" acrylic sheets | Canalplastics | [Frosted Satin Ice](https://www.canalplastic.com/products/0d010-df-frosted-satin-ice-acrylic-sheet) | recording enclosure and mounting plates | |
+| 1/8" & 1/4" acrylic sheets | Canalplastics | [various materials](https://www.canalplastic.com/) | material used for laser cutting | |
 | Weld-on #4 glue | Amazon | [B00TCUJ7A8](https://www.amazon.com/Weldon-Applicator-Bottle-Pint-10308/dp/B00TCUJ7A8) | Adhere acrylic sheets | Applied with needle |
 | Rat water bottle | WPI | [505432](https://www.wpiinc.com/var-505432-rat-mouse-water-bottle.html) | | |
 | Arducam B0205 Camera | Amazon | [B0829HZ3Q7](https://www.amazon.com/Arducam-Computer-Automatic-Switching-All-Day/dp/B0829HZ3Q7/) | Video monitoring | |
