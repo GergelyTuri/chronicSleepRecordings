@@ -9,14 +9,11 @@ lighting, and ventilation. This is the key hardware of the EEG/EMG recording set
   &
   [8206](https://store.pinnaclet.com/products/8206-data-conditioning-and-acquisition-system)
   used)
-- Amplifier-to-commutator extension cables ([8401
-  extension](https://www.amazon.com/Copartner-E119932-T-20276-15-Pin-Monitor/dp/B00MSE7Y3W/)
-  & [8206
+- Amplifier-to-commutator extension cables ([8206
   extension](https://www.amazon.com/Shielded-Cable-Black-Mouse-Keyboard/dp/B0933GL5CX/)
   used)
 - [LED
   lights](https://www.amazon.com/JUSJUBR-Lighting-Dimmable-Function-Bookshelf/dp/B0CCDPNYFG)
-- [IR light(s)](https://store.pinnaclet.com/products/9057-illuminator)
 - [LED rotary dimmer
   switch](https://www.amazon.com/TronicsPros-12V-24V-Dimmer-Switch-Controller/dp/B07MM88SB6)
 - Light meter
@@ -28,6 +25,8 @@ lighting, and ventilation. This is the key hardware of the EEG/EMG recording set
 - [1/8" acrylic sheets](https://www.canalplastic.com/)
 - Laser cutter ([Thunder Laser Nova
   35](https://www.thunderlaserusa.com/machines/nova/) used)
+- [Weld-on #4
+  glue](https://www.amazon.com/Weldon-Applicator-Bottle-Pint-10308/dp/B00TCUJ7A8)
 - [T-nuts](https://8020.net/3313.html) & screws
 
 **Before starting**
@@ -59,7 +58,8 @@ lighting, and ventilation. This is the key hardware of the EEG/EMG recording set
 **Figure 2.** _LED pucks fixed to mounting plates._
 
 ### Ventilation setup
-1. Assemble and glue the acrylic fan cover
+1. Laser cut, assemble and glue the acrylic fan cover parts with Weld-On #4
+  * Allow to air dry overnight
 2. Slide the fan cover over the ventilation fan outside of the box
 3. Connect the 24V AC-to-DC power supply to the ventilation fan
 
