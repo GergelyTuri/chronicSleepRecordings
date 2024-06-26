@@ -60,7 +60,8 @@ For a detailed software setup tutorial, please click [here](./Software/).
 
 ## Contact
 
-For any questions or inquiries, please email the principal investigators taking
+For any questions or inquiries, please email the researchers taking
 lead on the project below:
 - [Gergely Turi](mailto:gt2253@cumc.columbia.edu)
 - [Rebecca Muhle](mailto:ram76@cumc.columbia.edu)
+- [David Rivas](mailto:dfr5108@gmail.com)
