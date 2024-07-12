@@ -132,7 +132,7 @@ This portion of the guide explains how to slice and convert multi-hour long '.we
 6. When prompted, paste and enter the folder path containing the '.webm' files (e.g. `C:\Users\Rivasda\Downloads\2024_04_30`)
   * Within the folder path, the script will create a subfolder for each '.webm' file. The output videos will be saved to the corresponding subfolder (named after the source video file)
 
-![Running the Windows PowerShell webm-splitter script](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/webm-splitter.jpeg)
+![Running the Windows PowerShell webm-splitter script](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/webm-splitter.jpg)
 
 **Figure 7:** _An example of the user input to run the `webm-splitter.ps1` script (left window) and the resulting output while it's running (right window)._
 
