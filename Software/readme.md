@@ -67,34 +67,74 @@ required you export data in the `.edf` format:
 
 ![Export EDF pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/export-edf.JPG)
 
-**Figure:** _A pop-up window named 'Export EDF' will appear after selecting the 'File > Export > EDF' option in the top toolbar._
+**Figure 2:** _A pop-up window named 'Export EDF' will appear after selecting the 'File > Export > EDF' option in the top toolbar._
 
 ### Exporting video
+
+#### Install ffmpeg
+
+This portion of the guide explains how to install `ffmpeg`, which is used to split and convert `.webm` videos to `.mp4`.
+
+1. Download the lastest ffmpeg essentials build for Windows OS [here](https://www.gyan.dev/ffmpeg/builds/)
+2. Extract the folder to the `C:` local disk drive
+3. Right click the Windows Start Menu icon in the lower left taskbar, then select 'System'
+
+![Windows System Settings](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/system-settings.jpeg)
+
+**Figure 2:** _Access the System Settings by right clicking the Windows Start Menu icon and selecting 'System'._
+
+4. Click on 'Advanced system settings'
+5. A new 'System Properties' window will appear. Click 'Environment Variables...'
+6. Under 'System variables' highlight the 'Path' variable and click 'Edit'
+
+![Windows Environment Variables](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/environment-variables.JPG)
+
+**Figure 3:** _Click 'Advanced system settings' (1), then click 'Environment Variables...' (2). In the 'Environment Variables' window, highlight 'Path' (3), then click 'Edit' (4)._
+
+7. A new 'Edit environment variable' window will open. Click 'New', then paste the ffmpeg `bin` directory address (e.g. `C:\ffmpeg-7.0.1-essentials_build\bin`). Then click 'OK'
+
+![Creating a new Windows PATH Environment Variable](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/new-variable.JPG)
+
+**Figure 4:** _In the 'Edit environment variable' window, click 'New', then paste the ffmpeg `bin` directory address._
+
+8. To test if ffmpeg was installed successfully, launch the 'Command Prompt' and execute the command `ffmpeg`. The terminal should output the ffmpeg version, build, and configuration
+
+![Verifying ffmpeg installation](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/ffmpeg.JPG)
+
+**Figure 5:** _In the 'Command Prompt', run the `ffmpeg` command to see an output similar to this figure._
+
+#### Export video in Sirenia Acquisition
+
 1. In the top toolbar, select 'File > Export > Video'. A small pop-up named 'Export Video' will appear.
-2. In the 'File' prompt, choose the desired folder destination
+2. In the 'File' prompt, choose the desired folder destination and filename
+  * It's recommended to export all videos corresponding to each mouse into separate folders
 3. Set the date/time range you would like to export in the 'Start Time' and 'End Time' prompts (format: MM/DD/YEAR HH:MM:SS.00)
-4. Select the `.avi` file extension
-5. Select the desired camera video source
-6. Click 'OK'. A small pop-up named 'Video Compression' will appear.
+  * Video duration should be no longer than 24 hours (24:00:00)
+4. Select the `.webm` file extension
+5. Select the desired camera video source (select only one source per video export)
+6. Click 'OK'. A new 'Exporting Video' window will appear with a green progress bar.
+7. Once complete, a new window will pop up asking 'Optimize webm file?'. Click 'Yes'.
   
   ![Export Video pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/export-video.JPG)
   
-  **Figure:** _A pop-up window named 'Export Video' will appear after selecting the 'File > Export > Video' option in the top toolbar._
+  **Figure 6:** _A pop-up window named 'Export Video' will appear after selecting the 'File > Export > Video' option in the top toolbar._
 
-7. Under 'Compressor', select 'Xvid MPEG-4 Codec'
-  * If you don't see this option, [download and install Xvid](https://www.xvid.com/), then re-launch Sirenia Acquisition
-8. Click 'Configure'. A small pop-up named 'Xvid Configuration' will appear.
-  
-  ![Video compression pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/video-compression.JPG)
-  
-  **Figure:** _A pop-up window named 'Video Compression' will appear after clicking the 'OK' option from the 'Export Video' window._
+#### Slice and convert videos
 
-9. Under 'Profile @ Level', select 'MPEG4 SP @ L4a'
-10. Under 'Encoding type', select 'Single pass'
-11. Click 'OK'
-  
-  ![Xvid Configuration pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/xvid-config.jpg)
-  
-  **Figure:** _A pop-up window named 'Xvid Configuration' will appear after clicking the 'Configure...' option from the 'Video Compression' window._
+This portion of the guide explains how to slice and convert multi-hour long '.webm' videos to sequential, 1-hour long videos ('.mp4' format)
 
-12. In the 'Video Compression' window, click 'OK'. The video export and compression should begin.
+1. Download the `webm-splitter.ps1` Windows PowerShell script [here](./scripts/webm-splitter.ps1)
+2. Open Windows PowerScript
+3. In the terminal, change the current working directory to the folder where the script was installed using the `cd` command (e.g. `cd C:\Users\Rivasda\Documents\powershell-script`)
+4. Request authority to run the script by running this command : `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+  * A prompt for the 'Execution Policy Change' will appear. Enter `Y` 
+5. Finally, run the script using this command: `.\webm-splitter.ps1`
+6. When prompted, paste and enter the folder path containing the '.webm' files (e.g. `C:\Users\Rivasda\Downloads\2024_04_30`)
+  * Within the folder path, the script will create a subfolder for each '.webm' file. The output videos will be saved to the corresponding subfolder (named after the source video file)
+
+![Running the Windows PowerShell webm-splitter script](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/webm-splitter.jpeg)
+
+**Figure 7:** _An example of the user input to run the `webm-splitter.ps1` script (left window) and the resulting output while it's running (right window)._
+
+7. Check the video outputs and ensure the files are not corrupt
+
