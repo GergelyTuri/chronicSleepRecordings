@@ -1,5 +1,7 @@
 ## Exporting video
 
+This portion of the guide explains how to export video from the EEG/EMG sleep recording projects. Using Sirenia Acquisition, we first export video files in the `.webm` format, each of which are up to 24 hours long. Then, we use `ffmpeg` and a Windows PowerShell script to slice and convert these '.webm' files to sequential, hour-long '.mp4' video files. These videos can be used to track the XY movement of mice and serve as an aid for sleep state scoring.
+
 ### Software required
 - [Sirenia Acquisition](https://www.pinnaclet.com/sirenia-download.html)
 - [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
@@ -18,7 +20,7 @@
 2. In the 'File' prompt, choose the desired folder destination and filename
   * It's recommended to export all videos corresponding to each mouse into separate folders
 3. Set the date/time range you would like to export in the 'Start Time' and 'End Time' prompts (format: MM/DD/YEAR HH:MM:SS.00)
-  * Video duration should be no longer than 24 hours (24:00:00)
+  * **Video duration should be no longer than 24 hours (24:00:00)**
 4. Select the `.webm` file extension
 5. Select the desired camera video source (select only one source per video export)
 6. Click 'OK'. A new 'Exporting Video' window will appear with a green progress bar.
