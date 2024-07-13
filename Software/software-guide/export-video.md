@@ -1,36 +1,10 @@
 ## Exporting video
 
-### Install ffmpeg
+### Guide
 
-This portion of the guide explains how to install `ffmpeg`, which is used to split and convert `.webm` videos to `.mp4`.
-
-1. Download the lastest ffmpeg essentials build for Windows OS [here](https://www.gyan.dev/ffmpeg/builds/)
-2. Extract the folder to the `C:` local disk drive
-3. Right click the Windows Start Menu icon in the lower left taskbar, then select 'System'
-
-![Windows System Settings](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/system-settings.jpeg)
-
-**Figure 1:** _Access the System Settings by right clicking the Windows Start Menu icon and selecting 'System'._
-
-4. Click on 'Advanced system settings'
-5. A new 'System Properties' window will appear. Click 'Environment Variables...'
-6. Under 'System variables' highlight the 'Path' variable and click 'Edit'
-
-![Windows Environment Variables](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/environment-variables.JPG)
-
-**Figure 2:** _Click 'Advanced system settings' (1), then click 'Environment Variables...' (2). In the 'Environment Variables' window, highlight 'Path' (3), then click 'Edit' (4)._
-
-7. A new 'Edit environment variable' window will open. Click 'New', then paste the ffmpeg `bin` directory address (e.g. `C:\ffmpeg-7.0.1-essentials_build\bin`). Then click 'OK'
-
-![Creating a new Windows PATH Environment Variable](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/new-variable.JPG)
-
-**Figure 3:** _In the 'Edit environment variable' window, click 'New', then paste the ffmpeg `bin` directory address._
-
-8. To test if ffmpeg was installed successfully, launch the 'Command Prompt' and execute the command `ffmpeg`. The terminal should output the ffmpeg version, build, and configuration
-
-![Verifying ffmpeg installation](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/ffmpeg.JPG)
-
-**Figure 4:** _In the 'Command Prompt', run the `ffmpeg` command to see an output similar to this figure._
+1. [Export video in Sirenia Acquisition](#export-video-in-sirenia-acquisition)
+2. [Install ffmpeg](#install-ffmpeg)
+3. [Slice and convert videos](#slice-and-convert-videos)
 
 ### Export video in Sirenia Acquisition
 
@@ -46,7 +20,39 @@ This portion of the guide explains how to install `ffmpeg`, which is used to spl
   
   ![Export Video pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/export-video.JPG)
   
-  **Figure 5:** _A pop-up window named 'Export Video' will appear after selecting the 'File > Export > Video' option in the top toolbar._
+  **Figure 1:** _A pop-up window named 'Export Video' will appear after selecting the 'File > Export > Video' option in the top toolbar._
+
+### Install ffmpeg
+
+This portion of the guide explains how to install `ffmpeg`, which is used to split and convert `.webm` videos to `.mp4`.
+
+1. Download the lastest ffmpeg essentials build for Windows OS [here](https://www.gyan.dev/ffmpeg/builds/)
+2. Extract the folder to the `C:` local disk drive
+3. Right click the Windows Start Menu icon in the lower left taskbar, then select 'System'
+
+![Windows System Settings](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/system-settings.jpeg)
+
+**Figure 2:** _Access the System Settings by right clicking the Windows Start Menu icon and selecting 'System'._
+
+4. Click on 'Advanced system settings'
+5. A new 'System Properties' window will appear. Click 'Environment Variables...'
+6. Under 'System variables' highlight the 'Path' variable and click 'Edit'
+
+![Windows Environment Variables](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/environment-variables.JPG)
+
+**Figure 3:** _Click 'Advanced system settings' (1), then click 'Environment Variables...' (2). In the 'Environment Variables' window, highlight 'Path' (3), then click 'Edit' (4)._
+
+7. A new 'Edit environment variable' window will open. Click 'New', then paste the ffmpeg `bin` directory address (e.g. `C:\ffmpeg-7.0.1-essentials_build\bin`). Then click 'OK'
+
+![Creating a new Windows PATH Environment Variable](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/new-variable.JPG)
+
+**Figure 4:** _In the 'Edit environment variable' window, click 'New', then paste the ffmpeg `bin` directory address._
+
+8. To test if ffmpeg was installed successfully, launch the 'Command Prompt' and execute the command `ffmpeg`. The terminal should output the ffmpeg version, build, and configuration
+
+![Verifying ffmpeg installation](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/ffmpeg.JPG)
+
+**Figure 5:** _In the 'Command Prompt', run the `ffmpeg` command to see an output similar to this figure._
 
 ### Slice and convert videos
 
