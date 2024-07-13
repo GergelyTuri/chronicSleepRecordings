@@ -67,3 +67,4 @@ This portion of the guide explains how to slice and convert multi-hour long '.we
 
 7. Check the video outputs and ensure the files are not corrupt
 
+[← Return to setup guide](../readme.md#setup-guide)

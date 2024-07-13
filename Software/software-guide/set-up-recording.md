@@ -33,3 +33,5 @@ the headmount, please click [here](../../Hardware/setup-guide/headmount.md).
 
 ![EEG/EMG recording in Sirenia acquisition](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/acquisition.jpeg)
 **Figure 1.** _EEG/EMG recording in Sirenia acquisition._
+
+[← Return to setup guide](../readme.md#setup-guide)

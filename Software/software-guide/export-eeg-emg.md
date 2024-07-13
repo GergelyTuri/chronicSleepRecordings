@@ -1,6 +1,6 @@
 ## Exporting an EEG/EMG recording
 
-This portion of the guide explains how to export a video-EEG experiment in Sirenia Acquisition. EEG/EMG data can be exported to an `.edf` format, which can then be analyzed using the MATLAB script, Sirenia software packages, or third-party software. Video can be exported to `.avi`, which can be analyzed for XY-movement tracking using third-party software.
+This portion of the guide explains how to export a video-EEG experiment in Sirenia Acquisition. EEG/EMG data can be exported to an `.edf` format, which can then be analyzed using the MATLAB script, Sirenia software packages, or third-party software. Video can be exported to `.webm`, which can be analyzed for XY-movement tracking using third-party software.
 
 ### Exporting the EEG/EMG channels
 
@@ -20,3 +20,5 @@ required you export data in the `.edf` format:
 ![Export EDF pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/export-edf.JPG)
 
 **Figure 1:** _A pop-up window named 'Export EDF' will appear after selecting the 'File > Export > EDF' option in the top toolbar._
+
+[← Return to setup guide](../readme.md#setup-guide)
