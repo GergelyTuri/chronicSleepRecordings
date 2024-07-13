@@ -9,12 +9,17 @@
 - Camera(s)
 - Desktop/laptop
 
+## Build of Materials
+
 For a comprehensive list of hardware materials used in the build, please
 click [here](./BOM.md).
+
+## Laser-cut files
 
 For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/).
 
 ## Setup guide
+
 1. [Faraday-shielding and sound-proofing](./setup-guide/copper-foam.md)
 2. [Aluminum framing](./setup-guide/aluminum-framing.md)
 3. [Pinnacle System, lighting, & ventilation](./setup-guide/pinnacle-system.md)
