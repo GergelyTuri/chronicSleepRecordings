@@ -57,6 +57,7 @@ For a detailed software setup tutorial, please click [here](./Software/).
 
 1. Developing a software analysis guide
 2. Developing a custom analysis code
+3. Developing a DeepLabCut model for XY tracking
 
 -----
 
