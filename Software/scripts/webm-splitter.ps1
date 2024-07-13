@@ -9,7 +9,7 @@
     .\webm-splitter.ps1
     C:\Users\Rivasda\Downloads\2024_04_30
     
-    This example passes the `C:\Users\Rivasda\Downloads\2024_04_30` folder as the input folder to the script.
+    This example first executes the script. Then, when prompted, passes the `C:\Users\Rivasda\Downloads\2024_04_30` folder as the input folder to the script.
 
 .LINK
     https://github.com/GergelyTuri/chronicSleepRecordings
@@ -52,7 +52,7 @@ foreach ($file in $files) {
     # Initialize videoCount
     $videoCount = 1
     
-    # While the video timestamp is less than the duration of the video, export a 1hr long video ('.mp4' format) to the corresponding output folder
+    # While the video timestamp is less than the total duration of the '.webm' video, export an '.mp4' video (up to an hour long) to the corresponding output folder
     while ($timestamp -lt $videoDurationInSeconds) {
         ffmpeg -i "$inputFile" -ss $timestamp -t 3600 "$outputFolder\${base}_${videoCount}.mp4"
         $timestamp = $timestamp + 3600
