@@ -3,6 +3,7 @@
 ### Software required
 - [Sirenia Acquisition](https://www.pinnaclet.com/sirenia-download.html)
 - [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
+- ['webm-splitter.ps1' Windows PowerShell script](../scripts/webm-splitter.ps1)
 - Windows OS
 
 ### Guide
