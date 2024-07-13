@@ -47,7 +47,9 @@ For analysis, we are using [this MATLAB script found here](https://github.com/th
 ### Software requirement
 
 - [Sirenia](https://www.pinnaclet.com/sirenia-download.html)
+- [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
 - [MATLAB script](https://github.com/thepenglab/edfEEG2024)
+- Windows OS
 
 For a detailed software setup tutorial, please click [here](./Software/).
 
