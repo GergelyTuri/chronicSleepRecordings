@@ -1,5 +1,10 @@
 ## Exporting video
 
+### Software required
+- [Sirenia Acquisition](https://www.pinnaclet.com/sirenia-download.html)
+- [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
+- Windows OS
+
 ### Guide
 
 1. [Export video in Sirenia Acquisition](#export-video-in-sirenia-acquisition)

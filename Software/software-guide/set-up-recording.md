@@ -7,6 +7,10 @@ The EEG/EMG headmount should already be connected to the preamplifier before
 beginning this portion of the guide. For instructions on how to properly connect
 the headmount, please click [here](../../Hardware/setup-guide/headmount.md).
 
+### Software required
+- [Sirenia Acquisition](https://www.pinnaclet.com/sirenia-download.html)
+- Windows OS
+
 1. In the top toolbar, select 'File > New Experiment'. A new window will appear.
     1. In the 'File:' prompt, choose a folder destination and file name
         * In our setup, we save project files to: 'E:/Sirenia-Acquisition-Experiments/[lab name]/'

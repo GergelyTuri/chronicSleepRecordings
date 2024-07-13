@@ -11,6 +11,3 @@
 1. [Setting up an EEG/EMG recording](./software-guide/set-up-recording.md)
 2. [Exporting an EEG/EMG recording](./software-guide/export-eeg-emg.md)
 3. [Exporting video](./software-guide/export-video.md)
-
-
-
