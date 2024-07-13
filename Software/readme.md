@@ -69,9 +69,9 @@ required you export data in the `.edf` format:
 
 **Figure 2:** _A pop-up window named 'Export EDF' will appear after selecting the 'File > Export > EDF' option in the top toolbar._
 
-### Exporting video
+## Exporting video
 
-#### Install ffmpeg
+### Install ffmpeg
 
 This portion of the guide explains how to install `ffmpeg`, which is used to split and convert `.webm` videos to `.mp4`.
 
@@ -103,7 +103,7 @@ This portion of the guide explains how to install `ffmpeg`, which is used to spl
 
 **Figure 5:** _In the 'Command Prompt', run the `ffmpeg` command to see an output similar to this figure._
 
-#### Export video in Sirenia Acquisition
+### Export video in Sirenia Acquisition
 
 1. In the top toolbar, select 'File > Export > Video'. A small pop-up named 'Export Video' will appear.
 2. In the 'File' prompt, choose the desired folder destination and filename
@@ -119,7 +119,7 @@ This portion of the guide explains how to install `ffmpeg`, which is used to spl
   
   **Figure 6:** _A pop-up window named 'Export Video' will appear after selecting the 'File > Export > Video' option in the top toolbar._
 
-#### Slice and convert videos
+### Slice and convert videos
 
 This portion of the guide explains how to slice and convert multi-hour long '.webm' videos to sequential, 1-hour long videos ('.mp4' format)
 
