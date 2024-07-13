@@ -1,12 +1,10 @@
-## Exporting an EEG/EMG recording
+## Exporting the EEG/EMG channels
 
-This portion of the guide explains how to export a video-EEG experiment in Sirenia Acquisition. EEG/EMG data can be exported to an `.edf` format, which can then be analyzed using the MATLAB script, Sirenia software packages, or third-party software. Video can be exported to `.webm`, which can be analyzed for XY-movement tracking using third-party software.
+This portion of the guide explains how to export a video-EEG experiment in Sirenia Acquisition. EEG/EMG data can be exported to an `.edf` format, which can then be analyzed using the MATLAB script, Sirenia software packages, or third-party software.
 
-### Software required
+**Software required**
 - [Sirenia Acquisition](https://www.pinnaclet.com/sirenia-download.html)
 - Windows OS
-
-### Exporting the EEG/EMG channels
 
 By default, the project files are in `.pvfs` format, which are located in
 the folder destination that was selected in the 'File:' prompt during the
@@ -14,6 +12,8 @@ project setup. This filetype will store project info, EEG/EMG data, and video. A
 
 If you plan to analyze the channels using the MATLAB script, it's
 required you export data in the `.edf` format:
+
+**Steps**
 1. In the top toolbar, select 'File > Export > EDF. A small pop-up named 'Export EDF' will appear.
 2. Select all of the channels used in the experiment
   * If you ran more than one mouse in a project/experiment, verify which EEG/EMG channels correspond to which mouse. You may choose to export the EEG/EMG channels corresponding to different mice to separate files
