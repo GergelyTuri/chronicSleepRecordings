@@ -38,7 +38,7 @@ This portion of the guide explains how to install `ffmpeg`, which is used to spl
 2. Extract the folder to the `C:` local disk drive
 3. Right click the Windows Start Menu icon in the lower left taskbar, then select 'System'
 
-![Windows System Settings](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/system-settings.jpeg)
+![Windows System Settings](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/system-settings.JPG)
 
 **Figure 2:** _Access the System Settings by right clicking the Windows Start Menu icon and selecting 'System'._
 
