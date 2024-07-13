@@ -9,7 +9,7 @@
 - Camera(s)
 - Desktop/laptop
 
-## Build of Materials
+## Bill of Materials
 
 For a comprehensive list of hardware materials used in the build, please
 click [here](./BOM.md).
