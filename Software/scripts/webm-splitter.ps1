@@ -1,3 +1,21 @@
+<#
+.SYNOPSIS
+    This Windows PowerShell script splits multiple, multi-hour long '.webm' video files into sequential, hour-long '.mp4' video files.
+
+.DESCRIPTION
+    This script filters an input folder directory for '.webm' files, then creates a subfolder for each file within the input folder. While the timestamp (seconds) is less than the total duration of a '.webm' file (seconds), the '.webm' file is passed through the `ffmpeg` command line tool and output to its corresponding subfolder as an '.mp4' file that is up to an hour long.
+
+.EXAMPLE
+    .\webm-splitter.ps1
+    C:\Users\Rivasda\Downloads\2024_04_30
+    
+    This example passes the `C:\Users\Rivasda\Downloads\2024_04_30` folder as the input folder to the script.
+
+.LINK
+    https://github.com/GergelyTuri/chronicSleepRecordings
+
+#>
+
 # Prompts user to set input folder containing .webm videos
 $inputFolder = (Read-Host -Prompt 'Input folder path containing .webm files')
 
@@ -22,7 +40,7 @@ foreach ($file in $files) {
     # Get the video file itself from the folder
     $fileItem = $folder.ParseName((Get-Item $inputFile).Name)
 
-    # Retrieve the duration property (in seconds) of the video file
+    # Retrieve the duration property (hh:mm:ss) of the video file
     $videoDuration = $folder.GetDetailsOf($fileItem, 27)
 
     # Convert duration format (hh:mm:ss) to total seconds
