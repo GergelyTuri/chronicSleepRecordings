@@ -53,7 +53,7 @@ For analysis, we are using [this MATLAB script found here](https://github.com/th
 - [MATLAB script](https://github.com/thepenglab/edfEEG2024)
 - Windows OS
 
-## Software setup tutorial
+### Software setup tutorial
 
 For a detailed software setup tutorial, please click [here](./Software/).
 
