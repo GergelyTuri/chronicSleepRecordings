@@ -36,6 +36,8 @@ panels](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/mas
 - Camera(s)
 - Desktop/laptop (Windows OS)
 
+### Hardware setup tutorial
+
 For a detailed hardware setup tutorial, please click [here](./Hardware/).
 
 ## Software
@@ -50,6 +52,8 @@ For analysis, we are using [this MATLAB script found here](https://github.com/th
 - [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
 - [MATLAB script](https://github.com/thepenglab/edfEEG2024)
 - Windows OS
+
+## Software setup tutorial
 
 For a detailed software setup tutorial, please click [here](./Software/).
 
