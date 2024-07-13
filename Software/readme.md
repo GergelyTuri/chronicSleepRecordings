@@ -2,7 +2,7 @@
 
 ## Software requirement
 
-- [Sirenia](https://www.pinnaclet.com/sirenia-download.html)
+- [Sirenia Acquisition](https://www.pinnaclet.com/sirenia-download.html)
 - [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
 - [MATLAB script](https://github.com/thepenglab/edfEEG2024)
 - Windows OS
