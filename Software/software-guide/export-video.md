@@ -78,7 +78,8 @@ This portion of the guide explains how to slice and convert multi-hour long '.we
 2. Open Windows PowerShell
 3. In the terminal, change the current directory to the folder where the script was installed using the `cd` command (e.g. `cd C:\Users\Rivasda\Documents\powershell-script`)
 4. Request authority to run the script by running this command: `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
-    * A prompt for the 'Execution Policy Change' will appear. Enter `Y` 
+    * A prompt for the 'Execution Policy Change' will appear
+    * Enter `Y` 
 5. Finally, run the script using this command: `.\webm-splitter.ps1`
 6. When prompted, paste and enter the folder path containing the '.webm' files (e.g. `C:\Users\Rivasda\Downloads\2024_04_30`)
     * Within the folder path, the script will create a subfolder for each '.webm' file. The output videos will be saved to the corresponding subfolder (named after the source video file)

@@ -14,9 +14,10 @@ If you plan to analyze the channels using the MATLAB script, it's
 required you export data in the `.edf` format:
 
 **Steps**
-1. In the top toolbar, select 'File > Export > EDF. A small pop-up named 'Export EDF' will appear.
-2. Select all of the channels used in the experiment
-  * If you ran more than one mouse in a project/experiment, verify which EEG/EMG channels correspond to which mouse. You may choose to export the EEG/EMG channels corresponding to different mice to separate files
+1. In the top toolbar, select 'File > Export > EDF
+    * A small pop-up named 'Export EDF' will appear
+2. Select all of the EEG/EMG channels used in the experiment
+    * If you ran more than one mouse in a project/experiment, verify which EEG/EMG channels correspond to which mouse. You may choose to export only the EEG/EMG channels corresponding to each mouse into separate files
 3. In the 'Filename' prompt, choose the desired folder destination
 4. Set the date/time range you would like to export in the 'Start Time' and 'End Time' prompts (format: MM/DD/YEAR HH:MM:SS.00)
 4. Click 'OK'
