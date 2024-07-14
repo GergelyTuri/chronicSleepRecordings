@@ -1,6 +1,8 @@
 ## Exporting video
 
-This portion of the guide explains how to export video from the EEG/EMG sleep recording projects. Using Sirenia Acquisition, we first export video files in the `.webm` format, each of which are up to 24 hours long. Then, we use `ffmpeg` and a Windows PowerShell script to slice and convert these '.webm' files to sequential, hour-long '.mp4' video files. These videos can be used to track the XY movement of mice and serve as an aid for sleep state scoring.
+This portion of the guide explains how to export video from the EEG/EMG sleep recording projects.
+
+Using Sirenia Acquisition, we first export video files in the `.webm` format, each of which are up to 24 hours long. Then, we use `ffmpeg` and a Windows PowerShell script to slice and convert these '.webm' files to sequential, hour-long '.mp4' video files. These videos can be used to track the XY movement of mice and serve as an aid for sleep state scoring.
 
 **Software required**
 - [Sirenia Acquisition](https://www.pinnaclet.com/sirenia-download.html)
@@ -67,7 +69,7 @@ This portion of the guide explains how to install `ffmpeg`, which is used to spl
 This portion of the guide explains how to slice and convert multi-hour long '.webm' videos to sequential, 1-hour long videos ('.mp4' format)
 
 1. Download the `webm-splitter.ps1` Windows PowerShell script [here](.././scripts/webm-splitter.ps1)
-2. Open Windows PowerScript
+2. Open Windows PowerShell
 3. In the terminal, change the current working directory to the folder where the script was installed using the `cd` command (e.g. `cd C:\Users\Rivasda\Documents\powershell-script`)
 4. Request authority to run the script by running this command : `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
   * A prompt for the 'Execution Policy Change' will appear. Enter `Y` 
