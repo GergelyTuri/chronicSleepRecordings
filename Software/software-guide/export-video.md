@@ -18,15 +18,18 @@ Using Sirenia Acquisition, we first export video files in the `.webm` format, ea
 
 ### Export video in Sirenia Acquisition
 
-1. In the top toolbar, select 'File > Export > Video'. A small pop-up named 'Export Video' will appear.
+1. In the top toolbar, select 'File > Export > Video'
+    * A small pop-up named 'Export Video' will appear
 2. In the 'File' prompt, choose the desired folder destination and filename
-  * It's recommended to export all videos corresponding to each mouse into separate folders
+    * It's recommended to export all videos corresponding to each mouse into separate folders
 3. Set the date/time range you would like to export in the 'Start Time' and 'End Time' prompts (format: MM/DD/YEAR HH:MM:SS.00)
-  * **Video duration should be no longer than 24 hours (24:00:00)**
+    * **Video duration should be no longer than 24 hours (24:00:00)**
 4. Select the `.webm` file extension
 5. Select the desired camera video source (select only one source per video export)
-6. Click 'OK'. A new 'Exporting Video' window will appear with a green progress bar.
-7. Once complete, a new window will pop up asking 'Optimize webm file?'. Click 'Yes'.
+6. Click 'OK'
+    * A new 'Exporting Video' window will appear with a green progress bar
+7. Once complete, a new window will pop up asking: 'Optimize webm file?'
+    * Click 'Yes'
   
   ![Export Video pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/export-video.JPG)
   
@@ -52,13 +55,16 @@ This portion of the guide explains how to install `ffmpeg`, which is used to spl
 
 **Figure 3:** _Click 'Advanced system settings' (1), then click 'Environment Variables...' (2). In the 'Environment Variables' window, highlight 'Path' (3), then click 'Edit' (4)._
 
-7. A new 'Edit environment variable' window will open. Click 'New', then paste the ffmpeg `bin` directory address (e.g. `C:\ffmpeg-7.0.1-essentials_build\bin`). Then click 'OK'
+7. A new 'Edit environment variable' window will open
+    * Click 'New', then paste the ffmpeg `bin` directory address (e.g. `C:\ffmpeg-7.0.1-essentials_build\bin`)
+    * Click 'OK'
 
 ![Creating a new Windows PATH Environment Variable](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/new-variable.JPG)
 
 **Figure 4:** _In the 'Edit environment variable' window, click 'New', then paste the ffmpeg `bin` directory address._
 
-8. To test if ffmpeg was installed successfully, launch the 'Command Prompt' and execute the command `ffmpeg`. The terminal should output the ffmpeg version, build, and configuration
+8. To test if ffmpeg was installed successfully, launch the 'Command Prompt' and execute the command `ffmpeg`
+    * The terminal should output the ffmpeg version, build, and configuration
 
 ![Verifying ffmpeg installation](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/ffmpeg.JPG)
 
@@ -70,12 +76,12 @@ This portion of the guide explains how to slice and convert multi-hour long '.we
 
 1. Download the `webm-splitter.ps1` Windows PowerShell script [here](.././scripts/webm-splitter.ps1)
 2. Open Windows PowerShell
-3. In the terminal, change the current working directory to the folder where the script was installed using the `cd` command (e.g. `cd C:\Users\Rivasda\Documents\powershell-script`)
-4. Request authority to run the script by running this command : `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
-  * A prompt for the 'Execution Policy Change' will appear. Enter `Y` 
+3. In the terminal, change the current directory to the folder where the script was installed using the `cd` command (e.g. `cd C:\Users\Rivasda\Documents\powershell-script`)
+4. Request authority to run the script by running this command: `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+    * A prompt for the 'Execution Policy Change' will appear. Enter `Y` 
 5. Finally, run the script using this command: `.\webm-splitter.ps1`
 6. When prompted, paste and enter the folder path containing the '.webm' files (e.g. `C:\Users\Rivasda\Downloads\2024_04_30`)
-  * Within the folder path, the script will create a subfolder for each '.webm' file. The output videos will be saved to the corresponding subfolder (named after the source video file)
+    * Within the folder path, the script will create a subfolder for each '.webm' file. The output videos will be saved to the corresponding subfolder (named after the source video file)
 
 ![Running the Windows PowerShell webm-splitter script](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/webm-splitter.jpg)
 
