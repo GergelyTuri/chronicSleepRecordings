@@ -24,6 +24,6 @@ required you export data in the `.edf` format:
 
 ![Export EDF pop-up window](https://raw.githubusercontent.com/GergelyTuri/chronicSleepRecordings/master/images/export-edf.JPG)
 
-**Figure 1:** _A pop-up window named 'Export EDF' will appear after selecting the 'File > Export > EDF' option in the top toolbar._
+**Figure 1:** _A pop-up window named 'Export EDF' will appear after selecting the 'File > Export > EDF' option in the top toolbar. Note how the EEG/EMG channel names of one amplifier are distinguished from another amplifier (e.g. EEG1 vs. EEG1.1, EMG vs. EMG.1, etc.)_
 
 [← Return to setup guide](../readme.md#setup-guide)
