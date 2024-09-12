@@ -1,7 +1,30 @@
-# Hardware requirements
+# Hardware 
 
-## Components
+## Hardware requirements
 
-1. _Shilded and sound proofed Med Associate Boxes._ The boxes were sourced from in house but these can be purchased directly from Med Associates (cat number). The shielding was done with copper mesh purchased from [here](https://www.twpinc.com/100-mesh-copper-0045-wire-dia). Specs: 100 MEsh Copper .0045" wire. The sound prroofing was done with egg crate sound proofing foam purchased from [amazon](https://www.amazon.com/Self-Adhesive-Quick-Recovery-Elasticity-Eco-Friendly-WVOVW/dp/B0BLTSW8KC/ref=sr_1_9?crid=2VYGY240BHKHL&keywords=egg%2525252525252Bcrate%2525252525252Bstudio%2525252525252Bfoam%2525252525252Bself-adhesive&qid=1692294347&sprefix=egg%2525252525252Bcrate%2525252525252Bstudio%2525252525252Bfoam%2525252525252Bself-adhesive%2525252525252Caps%2525252525252C71&sr=8-9&th=1). Specs: 12 Pack Self-Adhesive 1.5" X 12" X 12" Sound Proofing Egg Crate Foam, Upgraded Soundproof Wall Panels, High-Density(35kg/m3). The box came with a built in fan which requres 24V power supply. 
-2. After attaching the copper mesh and the egg crate foam we used stapler gun to make sure that everything is hold in place securly.
-3. We used a pair of XXX" long 8020 aluminum extrusion to make a railing sysem on the top of the box. The railings were used to hold the camera and the IR light source. The railings were attached to the box using 1/4" screws. 
+- Pinnacle 3-Channel EEG/EMG Mouse System
+- Pinnacle EEG/EMG headmounts
+- Modified Med Associates Sound Attenuating Cubicle
+- Recording enclosure
+- Camera(s)
+- Desktop/laptop
+
+## Bill of Materials
+
+For a comprehensive list of hardware materials used in the build, please
+click [here](./BOM.md).
+
+## Laser-cut files
+
+For the laser-cut files and drawings, please click [here](./Laser%20cut%20parts/).
+
+## Setup guide
+
+1. [Faraday-shielding and sound-proofing](./setup-guide/copper-foam.md)
+2. [Aluminum framing](./setup-guide/aluminum-framing.md)
+3. [Pinnacle System, lighting, & ventilation](./setup-guide/pinnacle-system.md)
+4. [Camera setup](./setup-guide/camera-setup.md)
+5. [Cable management](./setup-guide/cable-management.md)
+6. [Recording enclosure](./setup-guide/recording-enclosure.md)
+7. [Box divider](./setup-guide/box-divider.md)
+8. [Connecting the EEG/EMG headmount](./setup-guide/headmount.md)

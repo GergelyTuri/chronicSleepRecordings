@@ -1,5 +1,18 @@
 # Required software and custom written scripts will be listed here
 
-## Data acquisition
+## Software requirement
 
-Data acquisition was performed using Pinnacle software and hardware components.
+- [Sirenia Acquisition](https://www.pinnaclet.com/sirenia-download.html)
+- [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
+- [MATLAB script](https://github.com/thepenglab/edfEEG2024)
+- Windows OS
+
+## Scripts
+
+- ['webm-splitter.ps1' Windows PowerShell script](./scripts/webm-splitter.ps1)
+
+## Setup guide
+
+1. [Setting up an EEG/EMG recording](./software-guide/set-up-recording.md)
+2. [Exporting the EEG/EMG channels](./software-guide/export-eeg-emg.md)
+3. [Exporting video](./software-guide/export-video.md)
